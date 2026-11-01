@@ -1,152 +1,134 @@
-\# YottaFlex AI – Customer Support Ticket Routing \& SLA Management System
+# AI-Powered Customer Support Ticket Routing & SLA Management System
+
+## Project Overview
+
+The AI-Powered Customer Support Ticket Routing & SLA Management System is designed to organize customer support tickets and assign them to suitable agents based on ticket intent, priority, language, agent skills, and available capacity.
+
+The system also tracks Service Level Agreement (SLA) events, monitors ticket status, and provides dashboards for analyzing routing and support performance.
+
+## Problem Statement
+
+Customer support teams receive tickets through multiple channels such as email, chat, and phone. Manually assigning tickets can cause delays, incorrect routing, agent overload, and SLA violations.
+
+## Proposed Solution
+
+This project provides a structured ticket routing and monitoring system that:
+
+- Categorizes customer support tickets by intent.
+- Considers ticket priority and language.
+- Matches tickets with agents based on skills.
+- Checks agent workload and capacity.
+- Places tickets in an overflow queue when suitable agents are unavailable.
+- Tracks SLA events and ticket resolutions.
+- Displays operational insights through dashboards.
+
+## Key Features
+
+- Ticket and customer data management
+- Multi-channel support
+- Intent and priority-based routing
+- Agent skill and language matching
+- Agent workload and capacity monitoring
+- Overflow queue management
+- SLA tracking and monitoring
+- Routing simulation
+- Dashboard and performance reporting
+
+## Technology Stack
+
+- **Programming:** Python
+- **Frontend / Dashboard:** Streamlit
+- **Database:** SQLite
+- **Data Processing:** Pandas
+- **Visualization:** Plotly
+- **Version Control:** Git and GitHub
+
+## Project Structure
+
+```text
+YottaFlex_Customer_Support_AI/
+│
+├── app.py
+├── simulation_router.py
+├── requirements.txt
+├── README.md
+│
+├── database/
+│   ├── support_system.db
+│   └── schema.sql
+│
+├── data/
+│   ├── csv/
+│   └── json/
+│
+├── dashboards/
+├── documentation/
+├── src/
+├── tests/
+│
+├── generate_master_data.py
+├── generate_tickets.py
+├── generate_messages.py
+├── generate_assignments.py
+├── generate_sla_events.py
+└── validate_database.py
+```
+
+## Database
+
+The project uses SQLite and includes structured tables for:
+
+- Customers
+- Agents
+- Tickets
+- Messages
+- Channels
+- Languages
+- Skills
+- Queues
+- Assignment events
+- SLA events
+- Resolutions
+- Overflow queue
+- Simulation assignments
+
+## Routing Logic
+
+The routing simulation follows these steps:
+
+1. Read tickets waiting for assignment.
+2. Identify ticket intent and required skill.
+3. Check the ticket language.
+4. Find active agents with matching skills and languages.
+5. Check agent workload and available capacity.
+6. Assign the ticket to an eligible agent with available capacity.
+7. Keep tickets in the waiting queue when no suitable agent is available.
 
+## Sample Simulation Results
 
+The current sample project contains:
 
-\## 1. Project Overview
+- 5,000 tickets
+- 20,000 messages
+- 100 agents
+- 5,000 initial SLA records
 
+Sample SLA results:
 
+| Metric | Result |
+|---|---:|
+| SLA Met | 4,376 |
+| SLA Breached | 624 |
+| SLA Compliance | 87.52% |
 
-This project is an AI-assisted customer support ticket routing and SLA management system.
+These are results from the current generated dataset and simulation, not live production metrics.
 
+## Installation and Execution
 
-
-It helps support teams organize customer tickets, identify routing requirements, monitor agent workload, and track SLA performance.
-
-
-
-\## 2. Business Problem
-
-
-
-Customer support teams receive requests through multiple channels such as Email, Chat, and Phone.
-
-
-
-Manual ticket assignment can cause:
-
-\- Delayed responses
-
-\- Incorrect agent assignments
-
-\- Agent workload imbalance
-
-\- SLA breaches
-
-\- Difficulty tracking ticket history
-
-
-
-\## 3. Proposed Solution
-
-
-
-The system maintains customer tickets, messages, agent information, assignment events, SLA events, and resolution records.
-
-
-
-The routing simulation considers:
-
-\- Ticket intent and required skill
-
-\- Customer language
-
-\- Agent availability
-
-\- Agent concurrent ticket capacity
-
-
-
-\## 4. Main Modules
-
-
-
-\- Customer and agent master data
-
-\- Ticket and message management
-
-\- Intent and priority rules
-
-\- Agent skills and language mapping
-
-\- Ticket routing simulation
-
-\- Overflow queue management
-
-\- SLA event tracking
-
-\- Resolution and customer satisfaction tracking
-
-\- Routing dashboard
-
-
-
-\## 5. Technology Stack
-
-
-
-\- Python
-
-\- Streamlit
-
-\- SQLite
-
-\- Pandas
-
-\- SQL
-
-\- VS Code
-
-
-
-\## 6. Database
-
-
-
-Database file: `database/support\_system.db`
-
-
-
-Schema file: `database/schema.sql`
-
-
-
-The database contains 18 tables covering master data, tickets, messages, assignments, SLA events, resolutions, and routing simulation.
-
-
-
-\## 7. Current Dataset
-
-
-
-\- Customers: 10,000
-
-\- Agents: 100
-
-\- Tickets: 5,000
-
-\- Messages: 20,000
-
-\- Assignment events: 5,000
-
-\- SLA events: 15,000
-
-\- Resolutions: 1,116
-
-
-
-These are the current database counts and not the final target dataset sizes.
-
-
-
-\## 8. Run the Application
-
-
-
-Install dependencies:
-
-
+### 1. Clone the repository
 
 ```bash
+git clone https://github.com/madhu12345677/omnichannel-support-routing-system.git
+```
 
-pip install streamlit pandas faker
-
+### 2. Open the
