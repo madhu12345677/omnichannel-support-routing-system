@@ -1,0 +1,58 @@
+[
+    {
+        "intent_id": "I001",
+        "intent_name": "Order Status",
+        "description": "Support for Order Status",
+        "default_priority": "High",
+        "active": 1
+    },
+    {
+        "intent_id": "I002",
+        "intent_name": "Refund",
+        "description": "Support for Refund",
+        "default_priority": "Medium",
+        "active": 1
+    },
+    {
+        "intent_id": "I003",
+        "intent_name": "Payment Issue",
+        "description": "Support for Payment Issue",
+        "default_priority": "High",
+        "active": 1
+    },
+    {
+        "intent_id": "I004",
+        "intent_name": "Account Access",
+        "description": "Support for Account Access",
+        "default_priority": "Critical",
+        "active": 1
+    },
+    {
+        "intent_id": "I005",
+        "intent_name": "Product Information",
+        "description": "Support for Product Information",
+        "default_priority": "Low",
+        "active": 1
+    },
+    {
+        "intent_id": "I006",
+        "intent_name": "Technical Support",
+        "description": "Support for Technical Support",
+        "default_priority": "High",
+        "active": 1
+    },
+    {
+        "intent_id": "I007",
+        "intent_name": "Cancellation",
+        "description": "Support for Cancellation",
+        "default_priority": "Medium",
+        "active": 1
+    },
+    {
+        "intent_id": "I008",
+        "intent_name": "Complaint",
+        "description": "Support for Complaint",
+        "default_priority": "High",
+        "active": 1
+    }
+]

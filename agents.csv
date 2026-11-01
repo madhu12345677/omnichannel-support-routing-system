@@ -1,0 +1,101 @@
+agent_id,agent_name,email,language,skill,queue,status
+1,Alka Naik,agent1@yottaflex.com,English,General Support,Account Queue,Offline
+2,Ira Walia,agent2@yottaflex.com,English,Delivery,Account Queue,Available
+3,Onveer Karan,agent3@yottaflex.com,English,Technical,Account Queue,Available
+4,Nachiket Kuruvilla,agent4@yottaflex.com,Hindi,Product Support,General Queue,Busy
+5,Kamya Iyer,agent5@yottaflex.com,Kannada,Technical,Billing Queue,Offline
+6,Sudiksha Pillay,agent6@yottaflex.com,Kannada,Billing,Billing Queue,Available
+7,Rishi Buch,agent7@yottaflex.com,Kannada,Product Support,Sales Queue,Available
+8,Tanvi Sami,agent8@yottaflex.com,English,Product Support,Billing Queue,Offline
+9,Ikshita Bakshi,agent9@yottaflex.com,English,Order Management,Sales Queue,Offline
+10,Praneel Luthra,agent10@yottaflex.com,Telugu,Billing,Refund Queue,Offline
+11,Mahika Rajan,agent11@yottaflex.com,Telugu,Billing,Billing Queue,Offline
+12,Darika Gopal,agent12@yottaflex.com,English,Refund,Billing Queue,Available
+13,Wriddhish Suresh,agent13@yottaflex.com,Telugu,Technical,Sales Queue,Busy
+14,Tanveer Sagar,agent14@yottaflex.com,Hindi,Product Support,Refund Queue,Busy
+15,Anay Datta,agent15@yottaflex.com,English,General Support,Refund Queue,Busy
+16,Janaki Dora,agent16@yottaflex.com,Kannada,Complaints,Sales Queue,Busy
+17,Balveer Maharaj,agent17@yottaflex.com,Hindi,Order Management,Technical Queue,Available
+18,Lekha Chatterjee,agent18@yottaflex.com,Telugu,Order Management,Technical Queue,Offline
+19,Chavvi Basak,agent19@yottaflex.com,English,Billing,Technical Queue,Available
+20,Samesh Mallick,agent20@yottaflex.com,Kannada,Sales,Technical Queue,Available
+21,Gautami Pandya,agent21@yottaflex.com,Hindi,Product Support,Account Queue,Available
+22,Ladli Dara,agent22@yottaflex.com,Telugu,Complaints,Refund Queue,Available
+23,Vidhi Gara,agent23@yottaflex.com,Telugu,General Support,Technical Queue,Offline
+24,Tripti Badal,agent24@yottaflex.com,Kannada,General Support,Billing Queue,Available
+25,Chakrika Mani,agent25@yottaflex.com,Hindi,Product Support,Refund Queue,Offline
+26,Theodore Chopra,agent26@yottaflex.com,English,Sales,Sales Queue,Busy
+27,Pushti Mitter,agent27@yottaflex.com,English,Account Support,Technical Queue,Available
+28,Yatin Chopra,agent28@yottaflex.com,English,Technical,Billing Queue,Busy
+29,Ekapad Dhawan,agent29@yottaflex.com,Telugu,Sales,Sales Queue,Available
+30,Chandran Cheema,agent30@yottaflex.com,Hindi,Sales,Sales Queue,Available
+31,Oni Chada,agent31@yottaflex.com,Tamil,Technical,Billing Queue,Busy
+32,Nimrat Barad,agent32@yottaflex.com,Kannada,General Support,Billing Queue,Offline
+33,Kai Buch,agent33@yottaflex.com,Hindi,Billing,Billing Queue,Busy
+34,Vihaan Nair,agent34@yottaflex.com,Hindi,Billing,Account Queue,Busy
+35,Sarthak Ramakrishnan,agent35@yottaflex.com,Kannada,Refund,Technical Queue,Busy
+36,Vrinda Buch,agent36@yottaflex.com,Hindi,Delivery,Technical Queue,Available
+37,Ekantika Khurana,agent37@yottaflex.com,English,Sales,Billing Queue,Available
+38,Kritika Roy,agent38@yottaflex.com,Tamil,Product Support,Billing Queue,Busy
+39,Vedika Jaggi,agent39@yottaflex.com,Tamil,Complaints,Billing Queue,Busy
+40,Hitesh Ramakrishnan,agent40@yottaflex.com,English,Technical,Refund Queue,Offline
+41,Chandresh Kumer,agent41@yottaflex.com,Tamil,Sales,Billing Queue,Available
+42,Vrinda Vaidya,agent42@yottaflex.com,English,General Support,Refund Queue,Busy
+43,Naksh Bhandari,agent43@yottaflex.com,Tamil,Billing,Sales Queue,Offline
+44,Wriddhish Chaudhari,agent44@yottaflex.com,Tamil,Complaints,Account Queue,Available
+45,Ekbal Trivedi,agent45@yottaflex.com,Hindi,Billing,Technical Queue,Available
+46,Hemangini Rege,agent46@yottaflex.com,Tamil,Complaints,Account Queue,Busy
+47,Hredhaan Vora,agent47@yottaflex.com,English,Account Support,Account Queue,Available
+48,Rachita Kara,agent48@yottaflex.com,Hindi,Product Support,Technical Queue,Available
+49,Nidhi Narayan,agent49@yottaflex.com,Hindi,Technical,Sales Queue,Busy
+50,Yachana Dugar,agent50@yottaflex.com,Kannada,Refund,Billing Queue,Offline
+51,Anita Chaudry,agent51@yottaflex.com,Telugu,Refund,General Queue,Available
+52,Manan Mangal,agent52@yottaflex.com,Telugu,Product Support,Refund Queue,Offline
+53,Vansha Kota,agent53@yottaflex.com,English,Order Management,General Queue,Busy
+54,Chakrika Narang,agent54@yottaflex.com,Telugu,Technical,Refund Queue,Available
+55,Rajeshri Raval,agent55@yottaflex.com,English,Billing,Sales Queue,Busy
+56,Chakradev Sharaf,agent56@yottaflex.com,Hindi,Order Management,General Queue,Busy
+57,Xavier Lal,agent57@yottaflex.com,Hindi,Delivery,Refund Queue,Available
+58,Tanish Krishnan,agent58@yottaflex.com,Telugu,Complaints,Technical Queue,Busy
+59,Brijesh Tandon,agent59@yottaflex.com,Telugu,Product Support,Technical Queue,Offline
+60,George Sood,agent60@yottaflex.com,Kannada,Delivery,Billing Queue,Available
+61,Advay Kanda,agent61@yottaflex.com,Telugu,Delivery,Technical Queue,Busy
+62,Mason Nori,agent62@yottaflex.com,Tamil,Delivery,Account Queue,Offline
+63,Tristan Sethi,agent63@yottaflex.com,English,Account Support,Sales Queue,Available
+64,Mohammed Viswanathan,agent64@yottaflex.com,Kannada,Account Support,Billing Queue,Offline
+65,Qabil Gopal,agent65@yottaflex.com,Telugu,Complaints,Refund Queue,Offline
+66,Liam Kamdar,agent66@yottaflex.com,Telugu,Order Management,Technical Queue,Available
+67,Jagvi Bhardwaj,agent67@yottaflex.com,Telugu,General Support,Refund Queue,Busy
+68,Yasti Dave,agent68@yottaflex.com,Tamil,Order Management,Refund Queue,Available
+69,Ekta Goel,agent69@yottaflex.com,English,Complaints,Account Queue,Offline
+70,Kalpit Sarna,agent70@yottaflex.com,Tamil,Refund,Technical Queue,Available
+71,Nikita Chaudhuri,agent71@yottaflex.com,Hindi,Order Management,Billing Queue,Available
+72,Watika Prabhakar,agent72@yottaflex.com,Hindi,Order Management,Billing Queue,Offline
+73,Qabil Kala,agent73@yottaflex.com,Kannada,Complaints,Billing Queue,Busy
+74,Yochana Batra,agent74@yottaflex.com,English,Sales,Refund Queue,Busy
+75,Darika Acharya,agent75@yottaflex.com,Telugu,Product Support,Account Queue,Available
+76,Alexander More,agent76@yottaflex.com,Tamil,Order Management,Technical Queue,Offline
+77,Ekiya Chacko,agent77@yottaflex.com,English,Order Management,Account Queue,Offline
+78,Avni Chaudhary,agent78@yottaflex.com,Tamil,Complaints,General Queue,Offline
+79,Anjali Dave,agent79@yottaflex.com,Telugu,Delivery,Billing Queue,Busy
+80,Darika Chhabra,agent80@yottaflex.com,Hindi,Technical,Technical Queue,Available
+81,Forum Borah,agent81@yottaflex.com,Telugu,Account Support,Billing Queue,Busy
+82,Shivansh Grover,agent82@yottaflex.com,Tamil,General Support,General Queue,Offline
+83,Max Boase,agent83@yottaflex.com,Kannada,Technical,Billing Queue,Available
+84,Yahvi Dara,agent84@yottaflex.com,Telugu,Product Support,General Queue,Available
+85,Harini Koshy,agent85@yottaflex.com,English,Complaints,Sales Queue,Available
+86,Yashvi Kunda,agent86@yottaflex.com,English,Product Support,General Queue,Busy
+87,Isaiah Parmar,agent87@yottaflex.com,Telugu,Refund,General Queue,Available
+88,Nathan Kamdar,agent88@yottaflex.com,Hindi,Account Support,Technical Queue,Busy
+89,Nikita Loke,agent89@yottaflex.com,Telugu,Order Management,Account Queue,Offline
+90,Krishna Palla,agent90@yottaflex.com,Telugu,Refund,Sales Queue,Offline
+91,Damini Kalla,agent91@yottaflex.com,Hindi,Complaints,Billing Queue,Busy
+92,Fariq Dube,agent92@yottaflex.com,Kannada,Product Support,Refund Queue,Offline
+93,Pavani Bhattacharyya,agent93@yottaflex.com,Hindi,Sales,Technical Queue,Available
+94,Vasana Palla,agent94@yottaflex.com,English,Account Support,Refund Queue,Busy
+95,Onkar Karpe,agent95@yottaflex.com,Telugu,Billing,Refund Queue,Available
+96,Zinal Mander,agent96@yottaflex.com,Kannada,Technical,Account Queue,Offline
+97,Kevin Keer,agent97@yottaflex.com,Kannada,Order Management,Account Queue,Available
+98,Vidhi Konda,agent98@yottaflex.com,Kannada,Product Support,Refund Queue,Busy
+99,Inaya Anne,agent99@yottaflex.com,Kannada,Product Support,Billing Queue,Busy
+100,Sarthak Joshi,agent100@yottaflex.com,Tamil,Order Management,Refund Queue,Busy

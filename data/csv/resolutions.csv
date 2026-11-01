@@ -1,0 +1,1117 @@
+﻿resolution_id,ticket_id,resolution_status,resolution_notes,resolved_at,customer_satisfaction
+RES000001,TKT000001,Resolved,Issue investigated and solution provided.,2025-10-18 05:52:00,5
+RES000002,TKT000012,Resolved,Technical issue fixed by the support team.,2025-08-10 19:24:00,4
+RES000003,TKT000016,Resolved,Technical issue fixed by the support team.,2026-05-28 17:35:00,3
+RES000004,TKT000020,Resolved,Provided the required information to the customer.,2026-05-31 02:04:00,4
+RES000005,TKT000032,Resolved,Customer issue resolved successfully.,2025-03-03 05:17:00,5
+RES000006,TKT000034,Resolved,Provided the required information to the customer.,2026-05-18 02:58:00,3
+RES000007,TKT000035,Resolved,Issue investigated and solution provided.,2025-08-23 09:32:00,3
+RES000008,TKT000038,Resolved,Customer request completed successfully.,2026-10-16 21:19:00,3
+RES000009,TKT000046,Resolved,Technical issue fixed by the support team.,2026-04-02 22:55:00,4
+RES000010,TKT000048,Resolved,Customer request completed successfully.,2026-01-03 13:17:00,3
+RES000011,TKT000049,Resolved,Customer issue resolved successfully.,2026-09-16 23:35:00,5
+RES000012,TKT000050,Resolved,Customer request completed successfully.,2026-10-15 13:49:00,3
+RES000013,TKT000052,Resolved,Technical issue fixed by the support team.,2025-09-19 00:40:00,3
+RES000014,TKT000053,Resolved,Customer issue resolved successfully.,2025-06-15 22:03:00,5
+RES000015,TKT000062,Resolved,Provided the required information to the customer.,2025-09-13 17:56:00,3
+RES000016,TKT000063,Resolved,Issue investigated and solution provided.,2025-10-15 02:26:00,3
+RES000017,TKT000067,Rejected,Issue investigated and solution provided.,2026-08-16 04:32:00,5
+RES000018,TKT000070,Resolved,Technical issue fixed by the support team.,2025-04-27 01:17:00,5
+RES000019,TKT000072,Resolved,Customer issue resolved successfully.,2026-03-20 16:38:00,4
+RES000020,TKT000074,Resolved,Customer issue resolved successfully.,2025-04-15 09:17:00,3
+RES000021,TKT000075,Resolved,Technical issue fixed by the support team.,2026-06-19 06:15:00,4
+RES000022,TKT000083,Resolved,Technical issue fixed by the support team.,2025-06-27 07:58:00,4
+RES000023,TKT000084,Resolved,Technical issue fixed by the support team.,2026-10-22 18:19:00,4
+RES000024,TKT000085,Resolved,Customer issue resolved successfully.,2025-07-21 18:58:00,5
+RES000025,TKT000087,Resolved,Provided the required information to the customer.,2025-10-30 00:44:00,3
+RES000026,TKT000088,Resolved,Issue investigated and solution provided.,2025-10-09 02:47:00,3
+RES000027,TKT000091,Resolved,Issue investigated and solution provided.,2025-04-25 06:36:00,3
+RES000028,TKT000096,Resolved,Issue investigated and solution provided.,2025-09-07 10:59:00,3
+RES000029,TKT000097,Resolved,Issue investigated and solution provided.,2025-10-02 06:35:00,5
+RES000030,TKT000102,Resolved,Customer request completed successfully.,2025-07-04 04:34:00,3
+RES000031,TKT000105,Resolved,Technical issue fixed by the support team.,2025-12-05 19:16:00,5
+RES000032,TKT000107,Resolved,Provided the required information to the customer.,2025-08-10 16:36:00,5
+RES000033,TKT000108,Resolved,Technical issue fixed by the support team.,2025-05-18 19:37:00,3
+RES000034,TKT000111,Resolved,Customer request completed successfully.,2025-07-14 21:26:00,5
+RES000035,TKT000112,Rejected,Customer request completed successfully.,2025-07-06 01:19:00,3
+RES000036,TKT000113,Resolved,Provided the required information to the customer.,2025-02-09 03:58:00,3
+RES000037,TKT000116,Resolved,Customer issue resolved successfully.,2025-03-10 13:57:00,5
+RES000038,TKT000118,Rejected,Customer issue resolved successfully.,2025-12-03 21:10:00,4
+RES000039,TKT000119,Resolved,Customer issue resolved successfully.,2026-06-14 09:54:00,3
+RES000040,TKT000120,Resolved,Issue investigated and solution provided.,2026-02-10 03:13:00,3
+RES000041,TKT000125,Resolved,Issue investigated and solution provided.,2025-09-24 00:45:00,4
+RES000042,TKT000128,Resolved,Customer request completed successfully.,2025-11-24 01:06:00,3
+RES000043,TKT000133,Resolved,Technical issue fixed by the support team.,2026-03-06 14:07:00,5
+RES000044,TKT000136,Resolved,Customer request completed successfully.,2025-11-29 12:42:00,5
+RES000045,TKT000137,Resolved,Technical issue fixed by the support team.,2025-02-10 04:52:00,5
+RES000046,TKT000145,Resolved,Customer issue resolved successfully.,2025-11-03 16:56:00,5
+RES000047,TKT000146,Resolved,Customer issue resolved successfully.,2026-01-19 19:54:00,5
+RES000048,TKT000151,Resolved,Technical issue fixed by the support team.,2025-11-25 20:36:00,3
+RES000049,TKT000157,Resolved,Provided the required information to the customer.,2025-03-27 16:19:00,3
+RES000050,TKT000159,Resolved,Technical issue fixed by the support team.,2026-07-29 19:17:00,4
+RES000051,TKT000163,Resolved,Technical issue fixed by the support team.,2026-03-01 17:23:00,5
+RES000052,TKT000170,Resolved,Provided the required information to the customer.,2026-07-20 16:46:00,3
+RES000053,TKT000181,Resolved,Customer issue resolved successfully.,2025-01-14 19:37:00,3
+RES000054,TKT000196,Resolved,Issue investigated and solution provided.,2026-09-07 12:57:00,5
+RES000055,TKT000197,Resolved,Customer issue resolved successfully.,2026-08-17 13:30:00,5
+RES000056,TKT000199,Resolved,Customer issue resolved successfully.,2026-03-13 18:08:00,3
+RES000057,TKT000226,Resolved,Customer request completed successfully.,2025-02-18 10:38:00,3
+RES000058,TKT000234,Resolved,Customer issue resolved successfully.,2026-02-28 05:21:00,5
+RES000059,TKT000238,Resolved,Issue investigated and solution provided.,2025-02-02 00:36:00,3
+RES000060,TKT000245,Resolved,Provided the required information to the customer.,2025-05-07 12:01:00,3
+RES000061,TKT000248,Resolved,Technical issue fixed by the support team.,2025-03-11 05:25:00,5
+RES000062,TKT000253,Resolved,Technical issue fixed by the support team.,2025-04-12 08:49:00,5
+RES000063,TKT000255,Resolved,Provided the required information to the customer.,2026-06-06 11:46:00,3
+RES000064,TKT000256,Resolved,Customer request completed successfully.,2026-09-02 15:14:00,4
+RES000065,TKT000263,Resolved,Technical issue fixed by the support team.,2026-05-10 14:44:00,5
+RES000066,TKT000267,Resolved,Customer issue resolved successfully.,2026-05-04 09:11:00,4
+RES000067,TKT000269,Resolved,Issue investigated and solution provided.,2026-09-25 16:39:00,4
+RES000068,TKT000278,Resolved,Technical issue fixed by the support team.,2026-08-16 13:31:00,5
+RES000069,TKT000286,Resolved,Customer issue resolved successfully.,2026-02-16 14:02:00,5
+RES000070,TKT000292,Resolved,Customer issue resolved successfully.,2025-03-03 15:51:00,3
+RES000071,TKT000293,Resolved,Technical issue fixed by the support team.,2025-08-01 18:53:00,5
+RES000072,TKT000299,Resolved,Provided the required information to the customer.,2025-09-12 10:53:00,4
+RES000073,TKT000306,Resolved,Customer request completed successfully.,2026-07-20 21:05:00,5
+RES000074,TKT000312,Resolved,Issue investigated and solution provided.,2025-05-06 20:14:00,4
+RES000075,TKT000314,Resolved,Customer request completed successfully.,2025-04-13 06:12:00,5
+RES000076,TKT000330,Resolved,Provided the required information to the customer.,2025-09-12 06:42:00,3
+RES000077,TKT000334,Resolved,Issue investigated and solution provided.,2025-09-11 17:50:00,5
+RES000078,TKT000342,Resolved,Customer request completed successfully.,2025-05-12 17:37:00,5
+RES000079,TKT000348,Resolved,Customer request completed successfully.,2026-03-26 16:48:00,3
+RES000080,TKT000349,Resolved,Issue investigated and solution provided.,2025-10-26 12:43:00,3
+RES000081,TKT000352,Rejected,Provided the required information to the customer.,2025-10-20 18:07:00,3
+RES000082,TKT000353,Resolved,Provided the required information to the customer.,2026-07-12 14:51:00,3
+RES000083,TKT000359,Resolved,Issue investigated and solution provided.,2026-04-25 10:04:00,3
+RES000084,TKT000362,Resolved,Provided the required information to the customer.,2025-07-22 01:34:00,5
+RES000085,TKT000364,Resolved,Provided the required information to the customer.,2026-10-07 13:40:00,5
+RES000086,TKT000368,Resolved,Provided the required information to the customer.,2025-07-05 17:20:00,5
+RES000087,TKT000381,Resolved,Customer request completed successfully.,2026-06-28 08:37:00,5
+RES000088,TKT000386,Resolved,Customer request completed successfully.,2025-07-14 17:17:00,4
+RES000089,TKT000389,Resolved,Customer issue resolved successfully.,2025-08-24 21:50:00,5
+RES000090,TKT000397,Resolved,Provided the required information to the customer.,2026-10-25 18:50:00,4
+RES000091,TKT000404,Resolved,Issue investigated and solution provided.,2026-02-10 05:35:00,5
+RES000092,TKT000407,Resolved,Customer issue resolved successfully.,2026-01-01 14:02:00,3
+RES000093,TKT000408,Resolved,Customer request completed successfully.,2025-01-26 21:04:00,4
+RES000094,TKT000409,Resolved,Customer issue resolved successfully.,2026-10-09 12:35:00,3
+RES000095,TKT000411,Resolved,Customer request completed successfully.,2026-04-15 17:14:00,5
+RES000096,TKT000412,Resolved,Customer issue resolved successfully.,2026-01-13 11:03:00,3
+RES000097,TKT000414,Resolved,Technical issue fixed by the support team.,2025-11-19 19:32:00,5
+RES000098,TKT000415,Resolved,Provided the required information to the customer.,2026-09-02 08:43:00,4
+RES000099,TKT000419,Resolved,Technical issue fixed by the support team.,2026-02-27 06:03:00,4
+RES000100,TKT000422,Resolved,Customer request completed successfully.,2026-08-06 01:49:00,5
+RES000101,TKT000425,Resolved,Customer issue resolved successfully.,2026-03-31 06:26:00,5
+RES000102,TKT000427,Resolved,Issue investigated and solution provided.,2026-08-29 12:52:00,5
+RES000103,TKT000441,Resolved,Provided the required information to the customer.,2026-01-27 16:12:00,4
+RES000104,TKT000448,Resolved,Customer request completed successfully.,2025-12-28 12:18:00,5
+RES000105,TKT000449,Rejected,Technical issue fixed by the support team.,2026-05-25 21:25:00,3
+RES000106,TKT000450,Resolved,Customer request completed successfully.,2025-06-11 08:00:00,4
+RES000107,TKT000451,Resolved,Issue investigated and solution provided.,2026-05-22 15:09:00,4
+RES000108,TKT000457,Resolved,Technical issue fixed by the support team.,2025-12-27 04:30:00,4
+RES000109,TKT000459,Resolved,Technical issue fixed by the support team.,2025-02-22 07:08:00,4
+RES000110,TKT000461,Resolved,Customer issue resolved successfully.,2025-06-17 09:00:00,5
+RES000111,TKT000464,Resolved,Technical issue fixed by the support team.,2025-01-24 16:59:00,5
+RES000112,TKT000465,Resolved,Customer issue resolved successfully.,2025-07-02 16:07:00,4
+RES000113,TKT000472,Resolved,Customer issue resolved successfully.,2025-05-12 20:47:00,3
+RES000114,TKT000474,Resolved,Technical issue fixed by the support team.,2025-06-28 13:39:00,4
+RES000115,TKT000476,Resolved,Issue investigated and solution provided.,2025-10-31 17:28:00,3
+RES000116,TKT000477,Resolved,Provided the required information to the customer.,2025-09-22 07:48:00,4
+RES000117,TKT000489,Resolved,Customer issue resolved successfully.,2025-02-23 05:22:00,3
+RES000118,TKT000492,Resolved,Technical issue fixed by the support team.,2026-04-22 05:00:00,4
+RES000119,TKT000497,Resolved,Customer issue resolved successfully.,2026-06-01 23:10:00,3
+RES000120,TKT000502,Rejected,Technical issue fixed by the support team.,2025-09-18 23:13:00,3
+RES000121,TKT000510,Resolved,Customer request completed successfully.,2026-06-19 07:05:00,4
+RES000122,TKT000513,Rejected,Customer request completed successfully.,2025-09-24 04:38:00,5
+RES000123,TKT000514,Resolved,Customer request completed successfully.,2026-03-28 15:56:00,5
+RES000124,TKT000520,Resolved,Provided the required information to the customer.,2025-11-07 15:27:00,5
+RES000125,TKT000523,Resolved,Issue investigated and solution provided.,2025-12-27 11:01:00,3
+RES000126,TKT000524,Resolved,Provided the required information to the customer.,2026-05-30 06:18:00,5
+RES000127,TKT000525,Resolved,Technical issue fixed by the support team.,2026-07-30 01:48:00,5
+RES000128,TKT000530,Rejected,Issue investigated and solution provided.,2026-02-24 14:03:00,3
+RES000129,TKT000532,Resolved,Technical issue fixed by the support team.,2025-07-10 21:01:00,3
+RES000130,TKT000537,Resolved,Customer issue resolved successfully.,2025-11-26 22:39:00,4
+RES000131,TKT000538,Resolved,Customer issue resolved successfully.,2025-09-06 12:44:00,5
+RES000132,TKT000539,Resolved,Provided the required information to the customer.,2026-06-12 18:01:00,4
+RES000133,TKT000542,Resolved,Provided the required information to the customer.,2026-08-10 20:55:00,5
+RES000134,TKT000547,Resolved,Customer request completed successfully.,2025-11-24 21:12:00,4
+RES000135,TKT000550,Resolved,Issue investigated and solution provided.,2025-05-24 23:12:00,3
+RES000136,TKT000553,Resolved,Issue investigated and solution provided.,2026-08-26 05:17:00,5
+RES000137,TKT000555,Resolved,Customer issue resolved successfully.,2026-10-24 23:42:00,4
+RES000138,TKT000558,Resolved,Provided the required information to the customer.,2025-12-29 05:20:00,5
+RES000139,TKT000559,Resolved,Technical issue fixed by the support team.,2026-10-19 04:27:00,5
+RES000140,TKT000566,Resolved,Technical issue fixed by the support team.,2025-09-11 03:37:00,5
+RES000141,TKT000581,Resolved,Customer request completed successfully.,2026-01-27 16:16:00,5
+RES000142,TKT000585,Resolved,Customer issue resolved successfully.,2025-04-23 06:09:00,3
+RES000143,TKT000591,Resolved,Provided the required information to the customer.,2025-08-29 06:30:00,4
+RES000144,TKT000595,Resolved,Provided the required information to the customer.,2026-03-31 17:31:00,3
+RES000145,TKT000605,Resolved,Technical issue fixed by the support team.,2025-07-08 13:43:00,3
+RES000146,TKT000606,Resolved,Issue investigated and solution provided.,2025-06-28 06:48:00,3
+RES000147,TKT000611,Resolved,Customer issue resolved successfully.,2025-09-21 21:56:00,4
+RES000148,TKT000612,Resolved,Customer request completed successfully.,2025-01-24 09:51:00,3
+RES000149,TKT000613,Resolved,Customer request completed successfully.,2026-03-02 02:40:00,3
+RES000150,TKT000617,Resolved,Customer request completed successfully.,2025-02-27 17:33:00,4
+RES000151,TKT000620,Resolved,Customer issue resolved successfully.,2025-05-26 18:59:00,4
+RES000152,TKT000622,Resolved,Customer issue resolved successfully.,2026-07-03 19:30:00,4
+RES000153,TKT000623,Resolved,Provided the required information to the customer.,2026-07-12 00:21:00,3
+RES000154,TKT000627,Resolved,Customer issue resolved successfully.,2026-05-26 21:44:00,4
+RES000155,TKT000630,Resolved,Provided the required information to the customer.,2025-06-19 20:40:00,3
+RES000156,TKT000631,Rejected,Technical issue fixed by the support team.,2025-08-11 04:33:00,3
+RES000157,TKT000632,Resolved,Provided the required information to the customer.,2025-06-07 17:49:00,4
+RES000158,TKT000633,Resolved,Technical issue fixed by the support team.,2025-09-13 22:14:00,5
+RES000159,TKT000639,Resolved,Issue investigated and solution provided.,2026-02-06 15:26:00,4
+RES000160,TKT000655,Resolved,Technical issue fixed by the support team.,2025-06-05 11:48:00,5
+RES000161,TKT000664,Resolved,Provided the required information to the customer.,2025-12-31 14:46:00,4
+RES000162,TKT000667,Resolved,Provided the required information to the customer.,2026-06-27 20:28:00,5
+RES000163,TKT000669,Rejected,Provided the required information to the customer.,2025-09-17 12:24:00,3
+RES000164,TKT000675,Resolved,Customer request completed successfully.,2025-11-14 11:15:00,4
+RES000165,TKT000681,Resolved,Provided the required information to the customer.,2025-06-03 01:11:00,4
+RES000166,TKT000682,Resolved,Customer issue resolved successfully.,2026-04-26 14:03:00,4
+RES000167,TKT000683,Resolved,Technical issue fixed by the support team.,2026-07-12 17:40:00,5
+RES000168,TKT000684,Resolved,Provided the required information to the customer.,2026-05-21 06:20:00,4
+RES000169,TKT000690,Resolved,Provided the required information to the customer.,2026-05-30 14:21:00,5
+RES000170,TKT000693,Resolved,Technical issue fixed by the support team.,2025-02-05 10:27:00,4
+RES000171,TKT000702,Resolved,Customer request completed successfully.,2025-04-07 16:03:00,5
+RES000172,TKT000713,Resolved,Issue investigated and solution provided.,2025-12-31 01:42:00,3
+RES000173,TKT000715,Resolved,Technical issue fixed by the support team.,2025-02-06 01:19:00,4
+RES000174,TKT000716,Resolved,Customer request completed successfully.,2025-07-26 15:12:00,3
+RES000175,TKT000727,Resolved,Customer request completed successfully.,2026-07-25 17:42:00,4
+RES000176,TKT000728,Resolved,Technical issue fixed by the support team.,2025-06-02 19:11:00,3
+RES000177,TKT000729,Resolved,Customer request completed successfully.,2025-04-28 01:49:00,4
+RES000178,TKT000737,Resolved,Issue investigated and solution provided.,2026-06-30 14:01:00,4
+RES000179,TKT000747,Resolved,Issue investigated and solution provided.,2025-12-28 03:11:00,3
+RES000180,TKT000757,Resolved,Provided the required information to the customer.,2025-01-17 21:50:00,5
+RES000181,TKT000758,Resolved,Customer request completed successfully.,2025-12-07 00:31:00,5
+RES000182,TKT000759,Resolved,Technical issue fixed by the support team.,2026-06-14 00:42:00,4
+RES000183,TKT000762,Resolved,Customer issue resolved successfully.,2025-01-17 22:43:00,5
+RES000184,TKT000767,Resolved,Customer issue resolved successfully.,2025-10-09 00:47:00,4
+RES000185,TKT000770,Resolved,Provided the required information to the customer.,2025-10-04 00:10:00,4
+RES000186,TKT000771,Resolved,Technical issue fixed by the support team.,2026-02-07 14:11:00,5
+RES000187,TKT000773,Resolved,Issue investigated and solution provided.,2025-11-13 18:46:00,5
+RES000188,TKT000780,Resolved,Provided the required information to the customer.,2025-06-13 19:43:00,4
+RES000189,TKT000787,Resolved,Customer issue resolved successfully.,2025-09-22 07:40:00,3
+RES000190,TKT000793,Resolved,Issue investigated and solution provided.,2025-04-05 18:50:00,4
+RES000191,TKT000796,Resolved,Customer issue resolved successfully.,2025-12-15 19:23:00,4
+RES000192,TKT000801,Rejected,Customer request completed successfully.,2025-01-25 02:11:00,4
+RES000193,TKT000806,Resolved,Customer issue resolved successfully.,2025-07-19 04:50:00,5
+RES000194,TKT000808,Resolved,Technical issue fixed by the support team.,2025-01-25 01:07:00,4
+RES000195,TKT000813,Resolved,Customer request completed successfully.,2026-09-03 22:08:00,4
+RES000196,TKT000816,Resolved,Customer request completed successfully.,2026-05-25 06:14:00,4
+RES000197,TKT000823,Resolved,Provided the required information to the customer.,2026-09-27 18:34:00,3
+RES000198,TKT000835,Resolved,Customer request completed successfully.,2026-07-09 17:55:00,5
+RES000199,TKT000839,Resolved,Issue investigated and solution provided.,2025-12-16 11:07:00,4
+RES000200,TKT000840,Resolved,Customer request completed successfully.,2025-08-31 19:43:00,5
+RES000201,TKT000843,Resolved,Provided the required information to the customer.,2025-06-11 11:27:00,4
+RES000202,TKT000844,Resolved,Issue investigated and solution provided.,2025-06-03 07:50:00,5
+RES000203,TKT000854,Resolved,Technical issue fixed by the support team.,2025-02-07 01:50:00,3
+RES000204,TKT000856,Resolved,Technical issue fixed by the support team.,2025-08-14 00:07:00,5
+RES000205,TKT000859,Resolved,Technical issue fixed by the support team.,2026-03-15 12:50:00,4
+RES000206,TKT000862,Resolved,Issue investigated and solution provided.,2026-09-14 22:11:00,3
+RES000207,TKT000866,Resolved,Provided the required information to the customer.,2026-08-02 21:02:00,4
+RES000208,TKT000868,Resolved,Customer issue resolved successfully.,2025-09-10 13:13:00,4
+RES000209,TKT000878,Resolved,Customer issue resolved successfully.,2025-10-07 20:00:00,5
+RES000210,TKT000882,Resolved,Issue investigated and solution provided.,2025-02-27 12:25:00,5
+RES000211,TKT000884,Resolved,Customer issue resolved successfully.,2026-05-23 20:24:00,4
+RES000212,TKT000886,Resolved,Provided the required information to the customer.,2026-03-30 15:42:00,3
+RES000213,TKT000890,Resolved,Technical issue fixed by the support team.,2026-04-29 13:37:00,5
+RES000214,TKT000892,Resolved,Technical issue fixed by the support team.,2025-08-02 02:25:00,3
+RES000215,TKT000893,Resolved,Customer request completed successfully.,2025-07-11 07:31:00,3
+RES000216,TKT000896,Resolved,Issue investigated and solution provided.,2025-08-23 21:44:00,4
+RES000217,TKT000903,Resolved,Provided the required information to the customer.,2025-07-31 22:15:00,3
+RES000218,TKT000906,Resolved,Provided the required information to the customer.,2026-06-02 03:13:00,3
+RES000219,TKT000935,Resolved,Customer request completed successfully.,2026-08-16 08:36:00,5
+RES000220,TKT000938,Resolved,Customer issue resolved successfully.,2025-02-18 11:23:00,4
+RES000221,TKT000956,Resolved,Customer issue resolved successfully.,2025-11-10 19:53:00,4
+RES000222,TKT000965,Rejected,Technical issue fixed by the support team.,2025-12-30 05:28:00,3
+RES000223,TKT000966,Resolved,Customer request completed successfully.,2026-03-03 10:06:00,4
+RES000224,TKT000971,Resolved,Issue investigated and solution provided.,2025-09-28 05:27:00,5
+RES000225,TKT000973,Resolved,Customer request completed successfully.,2025-06-30 00:40:00,5
+RES000226,TKT000975,Resolved,Provided the required information to the customer.,2026-05-08 22:09:00,5
+RES000227,TKT000991,Resolved,Technical issue fixed by the support team.,2025-05-03 01:45:00,3
+RES000228,TKT000994,Resolved,Customer request completed successfully.,2025-08-01 19:23:00,3
+RES000229,TKT000997,Resolved,Customer issue resolved successfully.,2025-05-27 12:33:00,5
+RES000230,TKT000999,Resolved,Provided the required information to the customer.,2026-10-19 00:12:00,3
+RES000231,TKT001000,Resolved,Customer request completed successfully.,2025-12-11 05:40:00,4
+RES000232,TKT001003,Resolved,Technical issue fixed by the support team.,2025-07-17 07:47:00,3
+RES000233,TKT001005,Resolved,Technical issue fixed by the support team.,2025-02-28 17:24:00,4
+RES000234,TKT001009,Resolved,Provided the required information to the customer.,2025-04-14 08:58:00,5
+RES000235,TKT001010,Resolved,Technical issue fixed by the support team.,2025-04-01 13:31:00,5
+RES000236,TKT001012,Resolved,Provided the required information to the customer.,2025-08-08 09:25:00,5
+RES000237,TKT001015,Resolved,Technical issue fixed by the support team.,2025-11-10 07:14:00,3
+RES000238,TKT001021,Resolved,Issue investigated and solution provided.,2025-01-12 07:57:00,5
+RES000239,TKT001030,Resolved,Customer request completed successfully.,2025-03-05 17:29:00,3
+RES000240,TKT001033,Resolved,Customer issue resolved successfully.,2025-08-28 18:02:00,5
+RES000241,TKT001037,Resolved,Provided the required information to the customer.,2026-02-27 16:20:00,5
+RES000242,TKT001042,Resolved,Customer issue resolved successfully.,2026-03-17 08:37:00,4
+RES000243,TKT001044,Resolved,Issue investigated and solution provided.,2026-05-08 06:38:00,4
+RES000244,TKT001046,Resolved,Customer issue resolved successfully.,2025-06-23 20:02:00,3
+RES000245,TKT001049,Rejected,Provided the required information to the customer.,2026-04-23 21:26:00,3
+RES000246,TKT001054,Resolved,Customer request completed successfully.,2026-07-30 05:45:00,4
+RES000247,TKT001055,Resolved,Issue investigated and solution provided.,2025-11-27 21:53:00,3
+RES000248,TKT001060,Resolved,Issue investigated and solution provided.,2026-01-23 18:32:00,4
+RES000249,TKT001073,Resolved,Customer issue resolved successfully.,2025-02-21 02:59:00,5
+RES000250,TKT001082,Resolved,Customer request completed successfully.,2026-03-20 16:10:00,3
+RES000251,TKT001089,Rejected,Technical issue fixed by the support team.,2025-08-05 09:14:00,5
+RES000252,TKT001092,Resolved,Provided the required information to the customer.,2026-07-31 04:27:00,5
+RES000253,TKT001098,Resolved,Provided the required information to the customer.,2026-07-07 01:23:00,4
+RES000254,TKT001100,Resolved,Issue investigated and solution provided.,2026-03-25 23:25:00,5
+RES000255,TKT001104,Resolved,Technical issue fixed by the support team.,2026-07-07 19:22:00,5
+RES000256,TKT001105,Resolved,Customer request completed successfully.,2026-02-02 15:38:00,3
+RES000257,TKT001108,Resolved,Customer issue resolved successfully.,2026-07-02 09:46:00,5
+RES000258,TKT001109,Resolved,Customer issue resolved successfully.,2026-08-17 00:19:00,4
+RES000259,TKT001117,Resolved,Issue investigated and solution provided.,2026-10-30 17:22:00,4
+RES000260,TKT001121,Resolved,Issue investigated and solution provided.,2025-03-12 05:48:00,5
+RES000261,TKT001124,Resolved,Provided the required information to the customer.,2025-10-03 20:56:00,5
+RES000262,TKT001125,Resolved,Technical issue fixed by the support team.,2026-07-15 04:32:00,4
+RES000263,TKT001128,Rejected,Customer request completed successfully.,2025-10-01 14:23:00,3
+RES000264,TKT001131,Resolved,Technical issue fixed by the support team.,2026-05-17 03:29:00,4
+RES000265,TKT001134,Resolved,Provided the required information to the customer.,2026-02-19 06:32:00,4
+RES000266,TKT001137,Resolved,Technical issue fixed by the support team.,2025-05-31 13:18:00,5
+RES000267,TKT001141,Resolved,Issue investigated and solution provided.,2025-09-28 20:43:00,5
+RES000268,TKT001142,Resolved,Technical issue fixed by the support team.,2026-06-22 05:52:00,4
+RES000269,TKT001149,Resolved,Provided the required information to the customer.,2026-02-17 22:12:00,5
+RES000270,TKT001150,Resolved,Provided the required information to the customer.,2026-10-31 07:15:00,5
+RES000271,TKT001154,Rejected,Customer issue resolved successfully.,2025-08-09 09:00:00,4
+RES000272,TKT001156,Resolved,Issue investigated and solution provided.,2026-05-01 18:24:00,4
+RES000273,TKT001160,Resolved,Technical issue fixed by the support team.,2026-05-24 07:26:00,3
+RES000274,TKT001170,Resolved,Issue investigated and solution provided.,2026-07-04 05:25:00,3
+RES000275,TKT001178,Resolved,Customer issue resolved successfully.,2025-09-12 12:25:00,4
+RES000276,TKT001181,Resolved,Customer request completed successfully.,2026-10-05 03:47:00,3
+RES000277,TKT001188,Resolved,Provided the required information to the customer.,2025-10-14 00:05:00,3
+RES000278,TKT001189,Resolved,Customer issue resolved successfully.,2025-11-04 02:39:00,5
+RES000279,TKT001190,Resolved,Technical issue fixed by the support team.,2025-04-26 02:24:00,3
+RES000280,TKT001192,Resolved,Issue investigated and solution provided.,2025-05-29 19:02:00,3
+RES000281,TKT001198,Resolved,Customer request completed successfully.,2025-09-04 14:08:00,3
+RES000282,TKT001203,Resolved,Customer request completed successfully.,2026-07-13 01:46:00,3
+RES000283,TKT001208,Resolved,Customer request completed successfully.,2026-07-26 19:13:00,5
+RES000284,TKT001214,Resolved,Issue investigated and solution provided.,2026-09-02 01:18:00,5
+RES000285,TKT001224,Resolved,Issue investigated and solution provided.,2025-06-21 22:27:00,5
+RES000286,TKT001225,Resolved,Issue investigated and solution provided.,2026-07-12 23:42:00,5
+RES000287,TKT001227,Resolved,Provided the required information to the customer.,2026-01-23 12:49:00,5
+RES000288,TKT001231,Resolved,Customer issue resolved successfully.,2025-01-28 08:05:00,3
+RES000289,TKT001232,Resolved,Issue investigated and solution provided.,2026-02-23 00:49:00,5
+RES000290,TKT001240,Resolved,Issue investigated and solution provided.,2025-03-03 14:59:00,5
+RES000291,TKT001246,Resolved,Customer request completed successfully.,2025-04-03 19:21:00,5
+RES000292,TKT001248,Resolved,Customer issue resolved successfully.,2025-08-09 21:02:00,5
+RES000293,TKT001249,Resolved,Customer request completed successfully.,2025-08-26 01:44:00,5
+RES000294,TKT001256,Resolved,Provided the required information to the customer.,2025-07-24 00:46:00,3
+RES000295,TKT001257,Resolved,Customer request completed successfully.,2026-09-15 16:46:00,3
+RES000296,TKT001259,Resolved,Provided the required information to the customer.,2026-09-30 16:06:00,3
+RES000297,TKT001263,Resolved,Technical issue fixed by the support team.,2026-04-11 17:44:00,5
+RES000298,TKT001266,Resolved,Customer request completed successfully.,2026-01-06 11:12:00,5
+RES000299,TKT001269,Resolved,Customer request completed successfully.,2025-07-13 14:20:00,4
+RES000300,TKT001277,Resolved,Customer request completed successfully.,2026-03-11 03:45:00,3
+RES000301,TKT001279,Resolved,Issue investigated and solution provided.,2026-02-28 10:41:00,4
+RES000302,TKT001289,Resolved,Customer request completed successfully.,2026-06-27 21:34:00,5
+RES000303,TKT001291,Resolved,Issue investigated and solution provided.,2025-09-05 06:38:00,5
+RES000304,TKT001299,Resolved,Provided the required information to the customer.,2025-05-30 18:33:00,3
+RES000305,TKT001306,Resolved,Customer request completed successfully.,2026-10-30 12:26:00,5
+RES000306,TKT001312,Rejected,Customer request completed successfully.,2025-02-01 09:36:00,3
+RES000307,TKT001322,Resolved,Customer request completed successfully.,2026-02-05 10:02:00,4
+RES000308,TKT001326,Resolved,Customer request completed successfully.,2026-04-19 19:02:00,5
+RES000309,TKT001327,Resolved,Customer request completed successfully.,2026-06-25 20:19:00,4
+RES000310,TKT001330,Resolved,Customer issue resolved successfully.,2025-03-10 05:17:00,4
+RES000311,TKT001332,Resolved,Customer request completed successfully.,2025-12-22 12:55:00,3
+RES000312,TKT001334,Resolved,Issue investigated and solution provided.,2025-11-16 18:33:00,4
+RES000313,TKT001335,Resolved,Customer issue resolved successfully.,2026-05-28 20:17:00,3
+RES000314,TKT001336,Resolved,Technical issue fixed by the support team.,2026-04-16 17:24:00,5
+RES000315,TKT001337,Resolved,Provided the required information to the customer.,2026-01-16 03:19:00,3
+RES000316,TKT001339,Resolved,Issue investigated and solution provided.,2026-08-09 19:55:00,5
+RES000317,TKT001340,Resolved,Technical issue fixed by the support team.,2026-02-10 18:05:00,5
+RES000318,TKT001342,Rejected,Customer request completed successfully.,2026-07-22 07:30:00,5
+RES000319,TKT001346,Resolved,Customer request completed successfully.,2026-05-04 03:59:00,5
+RES000320,TKT001349,Resolved,Technical issue fixed by the support team.,2026-09-20 09:06:00,4
+RES000321,TKT001350,Resolved,Customer request completed successfully.,2026-08-20 17:38:00,5
+RES000322,TKT001353,Resolved,Customer issue resolved successfully.,2025-09-26 18:06:00,5
+RES000323,TKT001358,Resolved,Issue investigated and solution provided.,2025-09-06 22:54:00,3
+RES000324,TKT001363,Resolved,Technical issue fixed by the support team.,2026-08-15 12:10:00,5
+RES000325,TKT001364,Resolved,Customer request completed successfully.,2026-08-02 18:12:00,3
+RES000326,TKT001372,Resolved,Customer request completed successfully.,2025-01-26 22:25:00,3
+RES000327,TKT001374,Resolved,Issue investigated and solution provided.,2025-01-18 05:04:00,5
+RES000328,TKT001379,Rejected,Customer issue resolved successfully.,2025-04-29 19:49:00,5
+RES000329,TKT001385,Resolved,Issue investigated and solution provided.,2025-09-06 15:52:00,5
+RES000330,TKT001387,Resolved,Provided the required information to the customer.,2025-08-05 11:05:00,5
+RES000331,TKT001392,Resolved,Technical issue fixed by the support team.,2025-12-01 19:16:00,3
+RES000332,TKT001410,Resolved,Provided the required information to the customer.,2025-12-16 18:21:00,4
+RES000333,TKT001417,Resolved,Customer request completed successfully.,2025-03-01 02:16:00,4
+RES000334,TKT001428,Resolved,Issue investigated and solution provided.,2025-01-09 21:47:00,3
+RES000335,TKT001431,Rejected,Issue investigated and solution provided.,2025-06-09 05:25:00,3
+RES000336,TKT001434,Resolved,Customer request completed successfully.,2026-02-20 02:35:00,3
+RES000337,TKT001447,Resolved,Customer request completed successfully.,2025-08-05 10:17:00,5
+RES000338,TKT001452,Resolved,Technical issue fixed by the support team.,2026-03-25 01:08:00,5
+RES000339,TKT001453,Resolved,Customer issue resolved successfully.,2026-01-30 22:41:00,3
+RES000340,TKT001454,Rejected,Provided the required information to the customer.,2025-06-27 18:31:00,3
+RES000341,TKT001456,Resolved,Technical issue fixed by the support team.,2026-03-01 16:24:00,4
+RES000342,TKT001459,Resolved,Provided the required information to the customer.,2025-10-06 16:24:00,5
+RES000343,TKT001460,Resolved,Technical issue fixed by the support team.,2025-12-22 16:56:00,4
+RES000344,TKT001461,Resolved,Technical issue fixed by the support team.,2025-08-02 07:07:00,5
+RES000345,TKT001462,Resolved,Customer request completed successfully.,2025-06-17 21:54:00,4
+RES000346,TKT001465,Resolved,Issue investigated and solution provided.,2025-08-04 22:48:00,4
+RES000347,TKT001470,Resolved,Customer request completed successfully.,2025-04-15 15:18:00,4
+RES000348,TKT001472,Resolved,Issue investigated and solution provided.,2026-01-27 01:55:00,4
+RES000349,TKT001482,Resolved,Customer issue resolved successfully.,2025-12-04 03:19:00,4
+RES000350,TKT001483,Resolved,Customer request completed successfully.,2025-10-04 12:19:00,5
+RES000351,TKT001486,Resolved,Technical issue fixed by the support team.,2026-10-18 15:53:00,5
+RES000352,TKT001491,Resolved,Customer request completed successfully.,2025-07-07 14:00:00,4
+RES000353,TKT001493,Resolved,Customer issue resolved successfully.,2026-02-04 10:06:00,4
+RES000354,TKT001494,Resolved,Customer issue resolved successfully.,2026-03-01 16:35:00,5
+RES000355,TKT001507,Resolved,Provided the required information to the customer.,2025-05-03 06:50:00,3
+RES000356,TKT001511,Resolved,Technical issue fixed by the support team.,2025-11-06 13:23:00,3
+RES000357,TKT001512,Resolved,Provided the required information to the customer.,2025-06-02 06:02:00,5
+RES000358,TKT001521,Resolved,Customer issue resolved successfully.,2026-02-24 15:34:00,4
+RES000359,TKT001531,Resolved,Provided the required information to the customer.,2026-02-27 17:26:00,5
+RES000360,TKT001535,Resolved,Customer request completed successfully.,2026-09-20 01:13:00,5
+RES000361,TKT001548,Resolved,Technical issue fixed by the support team.,2026-01-31 10:18:00,3
+RES000362,TKT001549,Resolved,Customer request completed successfully.,2025-06-17 13:36:00,4
+RES000363,TKT001555,Resolved,Customer request completed successfully.,2026-04-11 19:17:00,3
+RES000364,TKT001563,Resolved,Technical issue fixed by the support team.,2026-07-18 08:21:00,4
+RES000365,TKT001564,Resolved,Issue investigated and solution provided.,2025-03-09 22:13:00,4
+RES000366,TKT001565,Resolved,Technical issue fixed by the support team.,2025-11-15 04:08:00,4
+RES000367,TKT001566,Resolved,Provided the required information to the customer.,2025-01-24 03:56:00,4
+RES000368,TKT001567,Resolved,Customer issue resolved successfully.,2025-05-24 16:05:00,4
+RES000369,TKT001575,Resolved,Technical issue fixed by the support team.,2026-08-08 11:40:00,3
+RES000370,TKT001577,Resolved,Technical issue fixed by the support team.,2025-12-28 17:56:00,3
+RES000371,TKT001584,Resolved,Issue investigated and solution provided.,2026-02-14 09:08:00,4
+RES000372,TKT001588,Resolved,Provided the required information to the customer.,2025-12-16 15:40:00,5
+RES000373,TKT001596,Resolved,Issue investigated and solution provided.,2026-04-23 20:42:00,4
+RES000374,TKT001602,Resolved,Customer request completed successfully.,2026-04-03 13:21:00,5
+RES000375,TKT001619,Resolved,Issue investigated and solution provided.,2026-02-04 00:19:00,3
+RES000376,TKT001620,Resolved,Technical issue fixed by the support team.,2025-05-08 22:46:00,4
+RES000377,TKT001623,Resolved,Provided the required information to the customer.,2025-02-09 02:58:00,3
+RES000378,TKT001627,Resolved,Provided the required information to the customer.,2026-08-04 20:36:00,3
+RES000379,TKT001631,Resolved,Technical issue fixed by the support team.,2025-06-06 08:00:00,3
+RES000380,TKT001633,Resolved,Provided the required information to the customer.,2026-02-26 02:30:00,4
+RES000381,TKT001639,Rejected,Customer request completed successfully.,2026-03-04 03:47:00,3
+RES000382,TKT001641,Resolved,Customer request completed successfully.,2025-02-06 07:02:00,3
+RES000383,TKT001648,Rejected,Provided the required information to the customer.,2025-04-01 16:45:00,5
+RES000384,TKT001650,Resolved,Customer request completed successfully.,2026-05-12 10:55:00,5
+RES000385,TKT001651,Resolved,Customer issue resolved successfully.,2025-09-08 22:55:00,3
+RES000386,TKT001652,Rejected,Issue investigated and solution provided.,2025-05-04 09:37:00,3
+RES000387,TKT001655,Resolved,Provided the required information to the customer.,2025-09-20 08:06:00,5
+RES000388,TKT001659,Resolved,Customer issue resolved successfully.,2025-11-14 04:51:00,5
+RES000389,TKT001668,Resolved,Provided the required information to the customer.,2026-09-14 23:37:00,5
+RES000390,TKT001671,Resolved,Customer issue resolved successfully.,2025-07-20 23:32:00,3
+RES000391,TKT001675,Resolved,Technical issue fixed by the support team.,2025-07-27 19:44:00,5
+RES000392,TKT001676,Resolved,Technical issue fixed by the support team.,2025-10-10 04:08:00,5
+RES000393,TKT001678,Resolved,Customer request completed successfully.,2026-04-09 06:57:00,4
+RES000394,TKT001683,Resolved,Technical issue fixed by the support team.,2025-09-04 23:53:00,4
+RES000395,TKT001689,Resolved,Customer issue resolved successfully.,2025-03-21 22:25:00,4
+RES000396,TKT001690,Resolved,Technical issue fixed by the support team.,2026-07-29 06:12:00,4
+RES000397,TKT001694,Resolved,Provided the required information to the customer.,2026-04-19 06:48:00,3
+RES000398,TKT001699,Resolved,Provided the required information to the customer.,2026-06-19 03:36:00,5
+RES000399,TKT001703,Resolved,Customer request completed successfully.,2026-04-06 13:39:00,3
+RES000400,TKT001705,Resolved,Customer request completed successfully.,2025-01-14 14:12:00,3
+RES000401,TKT001711,Resolved,Provided the required information to the customer.,2025-08-03 22:37:00,3
+RES000402,TKT001717,Resolved,Customer issue resolved successfully.,2025-01-14 02:01:00,5
+RES000403,TKT001720,Resolved,Provided the required information to the customer.,2025-10-12 22:28:00,4
+RES000404,TKT001721,Resolved,Provided the required information to the customer.,2025-06-01 17:40:00,4
+RES000405,TKT001726,Resolved,Customer request completed successfully.,2025-05-18 17:47:00,4
+RES000406,TKT001733,Resolved,Issue investigated and solution provided.,2025-02-24 12:01:00,4
+RES000407,TKT001737,Resolved,Issue investigated and solution provided.,2025-07-10 05:35:00,3
+RES000408,TKT001740,Resolved,Customer request completed successfully.,2026-02-01 23:17:00,3
+RES000409,TKT001744,Resolved,Customer issue resolved successfully.,2025-07-21 21:19:00,3
+RES000410,TKT001746,Resolved,Technical issue fixed by the support team.,2025-07-08 11:48:00,3
+RES000411,TKT001750,Rejected,Customer request completed successfully.,2025-04-28 10:16:00,4
+RES000412,TKT001753,Resolved,Provided the required information to the customer.,2025-04-21 06:36:00,3
+RES000413,TKT001757,Resolved,Technical issue fixed by the support team.,2025-08-16 06:36:00,5
+RES000414,TKT001767,Resolved,Customer request completed successfully.,2025-12-03 09:19:00,5
+RES000415,TKT001771,Resolved,Customer request completed successfully.,2026-05-10 04:50:00,5
+RES000416,TKT001772,Resolved,Customer issue resolved successfully.,2026-07-04 07:25:00,3
+RES000417,TKT001776,Resolved,Customer issue resolved successfully.,2026-07-31 15:25:00,5
+RES000418,TKT001782,Resolved,Technical issue fixed by the support team.,2025-03-16 00:21:00,3
+RES000419,TKT001784,Resolved,Technical issue fixed by the support team.,2026-08-14 12:13:00,5
+RES000420,TKT001790,Resolved,Issue investigated and solution provided.,2026-03-20 16:32:00,4
+RES000421,TKT001792,Resolved,Issue investigated and solution provided.,2026-07-08 07:01:00,4
+RES000422,TKT001793,Resolved,Customer request completed successfully.,2026-08-25 09:33:00,3
+RES000423,TKT001794,Resolved,Provided the required information to the customer.,2025-04-14 03:56:00,5
+RES000424,TKT001798,Resolved,Technical issue fixed by the support team.,2025-11-21 02:18:00,5
+RES000425,TKT001799,Rejected,Customer issue resolved successfully.,2025-03-19 04:59:00,3
+RES000426,TKT001807,Resolved,Provided the required information to the customer.,2026-02-25 22:03:00,3
+RES000427,TKT001810,Resolved,Customer issue resolved successfully.,2025-03-07 18:58:00,4
+RES000428,TKT001812,Resolved,Provided the required information to the customer.,2025-01-20 11:59:00,5
+RES000429,TKT001814,Resolved,Customer request completed successfully.,2026-03-03 03:35:00,3
+RES000430,TKT001816,Resolved,Customer issue resolved successfully.,2025-11-22 15:07:00,3
+RES000431,TKT001817,Resolved,Customer request completed successfully.,2026-04-09 05:37:00,4
+RES000432,TKT001819,Resolved,Customer issue resolved successfully.,2026-06-24 08:10:00,5
+RES000433,TKT001826,Resolved,Customer issue resolved successfully.,2026-02-26 10:54:00,3
+RES000434,TKT001829,Resolved,Customer issue resolved successfully.,2026-08-18 04:07:00,4
+RES000435,TKT001834,Rejected,Provided the required information to the customer.,2026-08-26 00:04:00,5
+RES000436,TKT001836,Resolved,Customer request completed successfully.,2025-04-13 11:56:00,4
+RES000437,TKT001837,Rejected,Technical issue fixed by the support team.,2026-10-08 06:40:00,4
+RES000438,TKT001842,Resolved,Provided the required information to the customer.,2026-08-29 09:11:00,4
+RES000439,TKT001849,Resolved,Customer request completed successfully.,2026-03-04 07:12:00,3
+RES000440,TKT001857,Resolved,Issue investigated and solution provided.,2025-07-23 09:01:00,3
+RES000441,TKT001858,Resolved,Technical issue fixed by the support team.,2025-04-01 16:06:00,3
+RES000442,TKT001866,Resolved,Customer issue resolved successfully.,2025-12-11 15:02:00,4
+RES000443,TKT001869,Resolved,Customer issue resolved successfully.,2026-04-01 07:14:00,5
+RES000444,TKT001871,Resolved,Technical issue fixed by the support team.,2026-03-25 21:55:00,5
+RES000445,TKT001880,Resolved,Issue investigated and solution provided.,2026-02-05 05:00:00,5
+RES000446,TKT001887,Resolved,Customer request completed successfully.,2025-03-31 17:05:00,3
+RES000447,TKT001891,Resolved,Customer request completed successfully.,2025-10-18 15:41:00,4
+RES000448,TKT001894,Resolved,Customer request completed successfully.,2026-06-10 10:30:00,5
+RES000449,TKT001895,Resolved,Customer request completed successfully.,2025-06-27 22:43:00,4
+RES000450,TKT001908,Resolved,Technical issue fixed by the support team.,2025-07-04 23:09:00,3
+RES000451,TKT001914,Resolved,Issue investigated and solution provided.,2025-06-25 10:34:00,3
+RES000452,TKT001920,Resolved,Technical issue fixed by the support team.,2025-01-15 09:30:00,3
+RES000453,TKT001931,Resolved,Customer request completed successfully.,2026-08-09 03:53:00,5
+RES000454,TKT001933,Resolved,Customer issue resolved successfully.,2025-11-06 22:39:00,5
+RES000455,TKT001938,Resolved,Provided the required information to the customer.,2026-08-28 14:56:00,4
+RES000456,TKT001952,Resolved,Issue investigated and solution provided.,2025-08-18 19:54:00,3
+RES000457,TKT001953,Resolved,Technical issue fixed by the support team.,2025-07-09 13:29:00,3
+RES000458,TKT001963,Resolved,Provided the required information to the customer.,2026-06-28 14:15:00,3
+RES000459,TKT001964,Resolved,Customer issue resolved successfully.,2026-07-04 17:26:00,5
+RES000460,TKT001970,Resolved,Customer issue resolved successfully.,2025-08-24 16:52:00,5
+RES000461,TKT001975,Resolved,Customer request completed successfully.,2025-12-30 07:17:00,5
+RES000462,TKT001980,Resolved,Provided the required information to the customer.,2025-12-30 13:06:00,3
+RES000463,TKT001982,Rejected,Issue investigated and solution provided.,2025-02-17 09:24:00,3
+RES000464,TKT001987,Resolved,Customer issue resolved successfully.,2026-08-16 12:32:00,5
+RES000465,TKT001999,Rejected,Customer issue resolved successfully.,2025-06-19 04:21:00,5
+RES000466,TKT002010,Resolved,Provided the required information to the customer.,2026-04-24 17:33:00,5
+RES000467,TKT002012,Resolved,Technical issue fixed by the support team.,2026-09-04 14:25:00,3
+RES000468,TKT002022,Resolved,Provided the required information to the customer.,2025-06-11 14:57:00,3
+RES000469,TKT002028,Resolved,Provided the required information to the customer.,2026-10-03 03:10:00,5
+RES000470,TKT002034,Resolved,Customer request completed successfully.,2025-06-24 22:51:00,4
+RES000471,TKT002035,Resolved,Customer request completed successfully.,2026-08-24 20:08:00,5
+RES000472,TKT002038,Resolved,Issue investigated and solution provided.,2025-10-24 03:52:00,5
+RES000473,TKT002042,Resolved,Customer issue resolved successfully.,2025-05-17 10:08:00,3
+RES000474,TKT002043,Resolved,Technical issue fixed by the support team.,2025-01-12 21:00:00,3
+RES000475,TKT002044,Resolved,Customer issue resolved successfully.,2025-01-29 11:56:00,5
+RES000476,TKT002048,Resolved,Customer issue resolved successfully.,2026-07-02 03:15:00,3
+RES000477,TKT002050,Resolved,Technical issue fixed by the support team.,2026-09-24 10:40:00,3
+RES000478,TKT002052,Resolved,Issue investigated and solution provided.,2025-08-05 02:21:00,4
+RES000479,TKT002063,Resolved,Technical issue fixed by the support team.,2025-04-08 09:00:00,3
+RES000480,TKT002071,Resolved,Provided the required information to the customer.,2026-07-03 14:29:00,4
+RES000481,TKT002072,Resolved,Technical issue fixed by the support team.,2025-07-01 05:34:00,3
+RES000482,TKT002074,Resolved,Provided the required information to the customer.,2026-02-04 23:51:00,5
+RES000483,TKT002080,Resolved,Customer request completed successfully.,2025-10-17 22:09:00,4
+RES000484,TKT002082,Resolved,Issue investigated and solution provided.,2025-12-30 09:09:00,4
+RES000485,TKT002110,Resolved,Technical issue fixed by the support team.,2025-02-22 13:50:00,5
+RES000486,TKT002115,Resolved,Customer request completed successfully.,2026-08-28 01:33:00,3
+RES000487,TKT002135,Resolved,Provided the required information to the customer.,2025-02-21 01:06:00,3
+RES000488,TKT002137,Resolved,Technical issue fixed by the support team.,2025-07-19 18:50:00,3
+RES000489,TKT002138,Resolved,Customer issue resolved successfully.,2025-05-11 12:01:00,4
+RES000490,TKT002140,Resolved,Customer issue resolved successfully.,2026-09-26 23:22:00,4
+RES000491,TKT002147,Rejected,Customer issue resolved successfully.,2026-06-13 16:43:00,4
+RES000492,TKT002149,Resolved,Provided the required information to the customer.,2025-02-04 04:02:00,4
+RES000493,TKT002151,Resolved,Provided the required information to the customer.,2025-02-27 00:35:00,4
+RES000494,TKT002155,Resolved,Provided the required information to the customer.,2025-02-26 20:17:00,5
+RES000495,TKT002161,Resolved,Provided the required information to the customer.,2025-11-04 18:35:00,3
+RES000496,TKT002164,Resolved,Customer request completed successfully.,2026-08-02 02:18:00,5
+RES000497,TKT002165,Resolved,Technical issue fixed by the support team.,2026-01-24 04:03:00,5
+RES000498,TKT002166,Resolved,Issue investigated and solution provided.,2026-03-14 23:46:00,5
+RES000499,TKT002173,Resolved,Provided the required information to the customer.,2026-05-08 22:52:00,3
+RES000500,TKT002185,Resolved,Technical issue fixed by the support team.,2025-10-21 02:26:00,4
+RES000501,TKT002188,Resolved,Technical issue fixed by the support team.,2026-02-04 18:14:00,5
+RES000502,TKT002189,Resolved,Provided the required information to the customer.,2025-06-09 23:38:00,3
+RES000503,TKT002193,Resolved,Issue investigated and solution provided.,2026-01-06 18:26:00,3
+RES000504,TKT002196,Resolved,Technical issue fixed by the support team.,2026-01-17 17:25:00,5
+RES000505,TKT002197,Resolved,Provided the required information to the customer.,2026-10-15 23:49:00,3
+RES000506,TKT002203,Resolved,Technical issue fixed by the support team.,2025-01-15 17:54:00,4
+RES000507,TKT002204,Resolved,Customer request completed successfully.,2026-10-21 08:52:00,4
+RES000508,TKT002207,Resolved,Customer issue resolved successfully.,2025-04-22 23:02:00,4
+RES000509,TKT002212,Resolved,Customer request completed successfully.,2025-01-25 09:56:00,3
+RES000510,TKT002213,Resolved,Technical issue fixed by the support team.,2026-03-13 19:45:00,4
+RES000511,TKT002226,Resolved,Technical issue fixed by the support team.,2026-06-02 13:33:00,3
+RES000512,TKT002228,Resolved,Customer issue resolved successfully.,2025-11-15 03:56:00,3
+RES000513,TKT002236,Rejected,Provided the required information to the customer.,2026-10-22 14:17:00,5
+RES000514,TKT002239,Resolved,Issue investigated and solution provided.,2025-07-17 22:36:00,4
+RES000515,TKT002241,Resolved,Customer issue resolved successfully.,2026-02-11 00:46:00,5
+RES000516,TKT002244,Resolved,Issue investigated and solution provided.,2026-05-23 23:05:00,5
+RES000517,TKT002259,Resolved,Issue investigated and solution provided.,2026-04-09 15:09:00,3
+RES000518,TKT002274,Resolved,Provided the required information to the customer.,2025-07-22 14:03:00,5
+RES000519,TKT002275,Resolved,Technical issue fixed by the support team.,2025-01-17 06:51:00,5
+RES000520,TKT002281,Resolved,Issue investigated and solution provided.,2025-03-02 12:43:00,5
+RES000521,TKT002283,Resolved,Issue investigated and solution provided.,2026-08-26 23:07:00,3
+RES000522,TKT002293,Resolved,Customer issue resolved successfully.,2026-02-12 07:13:00,3
+RES000523,TKT002295,Resolved,Customer request completed successfully.,2025-07-31 08:30:00,4
+RES000524,TKT002299,Rejected,Issue investigated and solution provided.,2026-10-02 21:26:00,4
+RES000525,TKT002300,Resolved,Technical issue fixed by the support team.,2025-11-29 20:00:00,4
+RES000526,TKT002311,Resolved,Customer issue resolved successfully.,2025-10-26 01:49:00,3
+RES000527,TKT002316,Resolved,Provided the required information to the customer.,2026-06-25 17:32:00,5
+RES000528,TKT002317,Rejected,Customer request completed successfully.,2025-03-16 14:10:00,3
+RES000529,TKT002324,Resolved,Issue investigated and solution provided.,2026-07-07 13:43:00,4
+RES000530,TKT002326,Resolved,Technical issue fixed by the support team.,2026-09-08 03:40:00,4
+RES000531,TKT002332,Resolved,Issue investigated and solution provided.,2026-09-27 17:23:00,3
+RES000532,TKT002335,Resolved,Customer issue resolved successfully.,2025-07-23 16:04:00,5
+RES000533,TKT002338,Resolved,Provided the required information to the customer.,2025-10-10 05:49:00,4
+RES000534,TKT002345,Resolved,Issue investigated and solution provided.,2026-10-19 21:40:00,3
+RES000535,TKT002354,Resolved,Customer issue resolved successfully.,2026-07-08 08:24:00,4
+RES000536,TKT002361,Resolved,Technical issue fixed by the support team.,2025-08-16 17:39:00,5
+RES000537,TKT002364,Resolved,Provided the required information to the customer.,2025-08-07 00:20:00,5
+RES000538,TKT002365,Resolved,Customer issue resolved successfully.,2026-09-24 23:50:00,5
+RES000539,TKT002370,Resolved,Technical issue fixed by the support team.,2026-01-28 07:41:00,5
+RES000540,TKT002372,Resolved,Customer issue resolved successfully.,2025-11-27 15:11:00,3
+RES000541,TKT002375,Resolved,Provided the required information to the customer.,2026-01-25 09:11:00,4
+RES000542,TKT002377,Resolved,Technical issue fixed by the support team.,2025-08-20 11:12:00,4
+RES000543,TKT002379,Resolved,Technical issue fixed by the support team.,2025-06-05 03:14:00,5
+RES000544,TKT002396,Resolved,Customer issue resolved successfully.,2025-08-16 09:17:00,5
+RES000545,TKT002401,Resolved,Technical issue fixed by the support team.,2025-07-04 14:19:00,3
+RES000546,TKT002403,Resolved,Issue investigated and solution provided.,2026-05-14 08:37:00,5
+RES000547,TKT002409,Resolved,Issue investigated and solution provided.,2025-12-31 10:42:00,3
+RES000548,TKT002410,Resolved,Customer issue resolved successfully.,2025-08-15 01:34:00,4
+RES000549,TKT002412,Resolved,Provided the required information to the customer.,2026-05-23 12:09:00,4
+RES000550,TKT002437,Resolved,Customer issue resolved successfully.,2026-03-09 12:29:00,5
+RES000551,TKT002438,Resolved,Issue investigated and solution provided.,2026-01-23 09:43:00,4
+RES000552,TKT002440,Resolved,Issue investigated and solution provided.,2026-04-24 00:36:00,5
+RES000553,TKT002442,Rejected,Issue investigated and solution provided.,2026-04-04 00:00:00,3
+RES000554,TKT002446,Resolved,Customer issue resolved successfully.,2025-05-08 17:46:00,5
+RES000555,TKT002455,Resolved,Customer request completed successfully.,2025-01-11 23:06:00,3
+RES000556,TKT002458,Resolved,Provided the required information to the customer.,2025-03-06 07:38:00,3
+RES000557,TKT002459,Resolved,Technical issue fixed by the support team.,2026-06-29 18:49:00,4
+RES000558,TKT002461,Resolved,Technical issue fixed by the support team.,2026-10-07 13:09:00,4
+RES000559,TKT002469,Resolved,Customer request completed successfully.,2026-04-10 06:44:00,3
+RES000560,TKT002473,Resolved,Technical issue fixed by the support team.,2026-02-25 18:00:00,5
+RES000561,TKT002477,Resolved,Customer issue resolved successfully.,2026-04-10 12:41:00,3
+RES000562,TKT002479,Resolved,Issue investigated and solution provided.,2026-01-16 11:28:00,4
+RES000563,TKT002480,Resolved,Provided the required information to the customer.,2025-09-17 19:21:00,3
+RES000564,TKT002491,Resolved,Technical issue fixed by the support team.,2025-02-26 19:50:00,4
+RES000565,TKT002501,Resolved,Customer issue resolved successfully.,2026-04-13 04:42:00,4
+RES000566,TKT002502,Rejected,Customer request completed successfully.,2025-01-26 09:47:00,5
+RES000567,TKT002504,Resolved,Customer issue resolved successfully.,2025-06-19 09:30:00,5
+RES000568,TKT002509,Resolved,Technical issue fixed by the support team.,2025-01-14 15:56:00,4
+RES000569,TKT002511,Resolved,Technical issue fixed by the support team.,2025-09-16 04:04:00,4
+RES000570,TKT002512,Resolved,Provided the required information to the customer.,2026-08-04 08:21:00,4
+RES000571,TKT002522,Resolved,Provided the required information to the customer.,2026-01-31 05:21:00,5
+RES000572,TKT002523,Resolved,Customer issue resolved successfully.,2025-08-18 13:53:00,3
+RES000573,TKT002532,Rejected,Technical issue fixed by the support team.,2026-08-02 05:42:00,4
+RES000574,TKT002533,Resolved,Provided the required information to the customer.,2025-10-15 23:56:00,4
+RES000575,TKT002538,Resolved,Provided the required information to the customer.,2026-09-29 01:54:00,5
+RES000576,TKT002540,Resolved,Provided the required information to the customer.,2026-02-03 19:57:00,5
+RES000577,TKT002545,Resolved,Customer request completed successfully.,2026-03-02 08:59:00,4
+RES000578,TKT002548,Resolved,Customer issue resolved successfully.,2025-12-08 10:30:00,5
+RES000579,TKT002549,Rejected,Provided the required information to the customer.,2025-09-27 09:26:00,4
+RES000580,TKT002559,Resolved,Issue investigated and solution provided.,2026-07-22 19:52:00,3
+RES000581,TKT002569,Rejected,Technical issue fixed by the support team.,2025-11-11 07:50:00,3
+RES000582,TKT002582,Resolved,Issue investigated and solution provided.,2025-08-08 22:46:00,3
+RES000583,TKT002589,Resolved,Provided the required information to the customer.,2026-03-22 01:41:00,4
+RES000584,TKT002607,Resolved,Issue investigated and solution provided.,2025-02-01 04:48:00,5
+RES000585,TKT002616,Resolved,Provided the required information to the customer.,2026-10-05 21:59:00,3
+RES000586,TKT002617,Resolved,Provided the required information to the customer.,2026-09-22 14:47:00,3
+RES000587,TKT002619,Resolved,Provided the required information to the customer.,2025-07-06 18:13:00,4
+RES000588,TKT002620,Resolved,Provided the required information to the customer.,2025-12-31 17:30:00,3
+RES000589,TKT002625,Resolved,Customer issue resolved successfully.,2025-07-18 18:48:00,4
+RES000590,TKT002626,Resolved,Customer issue resolved successfully.,2025-05-03 01:19:00,5
+RES000591,TKT002627,Resolved,Issue investigated and solution provided.,2025-03-20 10:32:00,3
+RES000592,TKT002629,Resolved,Issue investigated and solution provided.,2025-02-06 13:06:00,3
+RES000593,TKT002636,Resolved,Provided the required information to the customer.,2025-08-29 00:40:00,5
+RES000594,TKT002638,Resolved,Issue investigated and solution provided.,2025-09-22 18:22:00,4
+RES000595,TKT002639,Resolved,Customer issue resolved successfully.,2026-06-28 17:42:00,4
+RES000596,TKT002658,Resolved,Customer request completed successfully.,2026-03-03 03:04:00,4
+RES000597,TKT002659,Resolved,Customer issue resolved successfully.,2025-04-24 12:21:00,4
+RES000598,TKT002660,Resolved,Customer issue resolved successfully.,2025-11-29 21:06:00,5
+RES000599,TKT002671,Resolved,Customer request completed successfully.,2026-01-24 00:46:00,4
+RES000600,TKT002688,Resolved,Customer issue resolved successfully.,2025-10-31 21:19:00,3
+RES000601,TKT002692,Resolved,Customer request completed successfully.,2026-07-15 19:29:00,5
+RES000602,TKT002700,Resolved,Technical issue fixed by the support team.,2025-06-20 11:02:00,4
+RES000603,TKT002702,Rejected,Customer request completed successfully.,2026-01-27 03:47:00,3
+RES000604,TKT002704,Resolved,Customer request completed successfully.,2025-02-06 02:33:00,5
+RES000605,TKT002715,Resolved,Customer request completed successfully.,2025-04-04 09:59:00,5
+RES000606,TKT002717,Resolved,Issue investigated and solution provided.,2026-07-12 02:42:00,4
+RES000607,TKT002719,Resolved,Customer issue resolved successfully.,2025-11-30 18:23:00,5
+RES000608,TKT002726,Resolved,Issue investigated and solution provided.,2025-03-04 18:55:00,5
+RES000609,TKT002734,Resolved,Technical issue fixed by the support team.,2025-09-16 05:59:00,3
+RES000610,TKT002759,Resolved,Customer request completed successfully.,2025-03-01 12:15:00,5
+RES000611,TKT002761,Resolved,Technical issue fixed by the support team.,2026-04-22 22:33:00,3
+RES000612,TKT002765,Resolved,Issue investigated and solution provided.,2025-01-07 15:09:00,4
+RES000613,TKT002766,Resolved,Provided the required information to the customer.,2025-02-18 10:02:00,4
+RES000614,TKT002767,Resolved,Issue investigated and solution provided.,2026-08-25 04:18:00,3
+RES000615,TKT002788,Resolved,Technical issue fixed by the support team.,2025-11-18 16:20:00,3
+RES000616,TKT002790,Resolved,Customer issue resolved successfully.,2026-05-16 14:46:00,3
+RES000617,TKT002791,Resolved,Provided the required information to the customer.,2025-09-01 03:07:00,3
+RES000618,TKT002792,Rejected,Customer issue resolved successfully.,2026-04-25 08:51:00,4
+RES000619,TKT002796,Resolved,Issue investigated and solution provided.,2025-06-15 16:39:00,4
+RES000620,TKT002798,Resolved,Provided the required information to the customer.,2025-07-28 18:33:00,5
+RES000621,TKT002803,Resolved,Customer request completed successfully.,2026-09-30 19:47:00,5
+RES000622,TKT002808,Resolved,Customer issue resolved successfully.,2026-01-24 09:50:00,4
+RES000623,TKT002816,Resolved,Issue investigated and solution provided.,2025-11-29 03:02:00,4
+RES000624,TKT002818,Resolved,Customer request completed successfully.,2025-12-25 11:00:00,4
+RES000625,TKT002819,Resolved,Technical issue fixed by the support team.,2025-08-07 07:01:00,4
+RES000626,TKT002823,Resolved,Customer request completed successfully.,2025-02-24 16:20:00,5
+RES000627,TKT002836,Resolved,Provided the required information to the customer.,2026-06-17 23:52:00,3
+RES000628,TKT002837,Resolved,Customer issue resolved successfully.,2025-01-28 04:56:00,4
+RES000629,TKT002839,Resolved,Provided the required information to the customer.,2025-03-16 05:24:00,5
+RES000630,TKT002840,Resolved,Issue investigated and solution provided.,2025-12-30 15:41:00,5
+RES000631,TKT002841,Resolved,Customer request completed successfully.,2025-05-21 02:26:00,4
+RES000632,TKT002843,Resolved,Technical issue fixed by the support team.,2025-04-06 14:54:00,3
+RES000633,TKT002847,Resolved,Provided the required information to the customer.,2026-10-18 22:02:00,3
+RES000634,TKT002850,Resolved,Issue investigated and solution provided.,2025-08-28 00:12:00,5
+RES000635,TKT002851,Resolved,Issue investigated and solution provided.,2026-04-10 20:48:00,3
+RES000636,TKT002855,Rejected,Provided the required information to the customer.,2026-10-16 23:26:00,5
+RES000637,TKT002862,Resolved,Issue investigated and solution provided.,2025-04-11 21:14:00,3
+RES000638,TKT002872,Resolved,Technical issue fixed by the support team.,2026-09-22 21:59:00,3
+RES000639,TKT002878,Resolved,Provided the required information to the customer.,2026-05-01 11:12:00,4
+RES000640,TKT002881,Resolved,Technical issue fixed by the support team.,2026-07-12 00:02:00,3
+RES000641,TKT002882,Resolved,Technical issue fixed by the support team.,2026-01-22 18:47:00,3
+RES000642,TKT002884,Resolved,Customer issue resolved successfully.,2025-03-15 10:33:00,3
+RES000643,TKT002890,Resolved,Customer request completed successfully.,2026-01-03 08:57:00,3
+RES000644,TKT002891,Resolved,Technical issue fixed by the support team.,2026-10-28 07:11:00,5
+RES000645,TKT002893,Resolved,Technical issue fixed by the support team.,2025-01-13 04:44:00,5
+RES000646,TKT002904,Resolved,Provided the required information to the customer.,2026-03-06 10:59:00,5
+RES000647,TKT002907,Resolved,Provided the required information to the customer.,2026-09-06 12:32:00,4
+RES000648,TKT002909,Resolved,Customer request completed successfully.,2025-09-28 12:45:00,3
+RES000649,TKT002911,Resolved,Customer request completed successfully.,2026-10-25 22:03:00,5
+RES000650,TKT002915,Resolved,Customer request completed successfully.,2025-07-25 03:55:00,3
+RES000651,TKT002918,Resolved,Provided the required information to the customer.,2025-08-30 00:41:00,3
+RES000652,TKT002927,Resolved,Customer request completed successfully.,2025-03-24 10:09:00,3
+RES000653,TKT002932,Resolved,Technical issue fixed by the support team.,2025-10-03 08:36:00,4
+RES000654,TKT002933,Resolved,Customer request completed successfully.,2025-12-25 01:55:00,4
+RES000655,TKT002934,Resolved,Provided the required information to the customer.,2025-12-28 09:01:00,5
+RES000656,TKT002935,Resolved,Customer issue resolved successfully.,2025-07-09 18:49:00,4
+RES000657,TKT002936,Resolved,Issue investigated and solution provided.,2026-10-10 20:10:00,4
+RES000658,TKT002942,Resolved,Provided the required information to the customer.,2026-09-08 06:48:00,3
+RES000659,TKT002943,Resolved,Customer issue resolved successfully.,2025-06-27 13:03:00,5
+RES000660,TKT002944,Resolved,Provided the required information to the customer.,2025-10-20 15:35:00,3
+RES000661,TKT002947,Rejected,Issue investigated and solution provided.,2026-10-03 01:24:00,5
+RES000662,TKT002950,Resolved,Customer request completed successfully.,2025-06-22 11:36:00,3
+RES000663,TKT002955,Resolved,Customer issue resolved successfully.,2026-06-27 17:16:00,4
+RES000664,TKT002956,Resolved,Issue investigated and solution provided.,2025-05-25 13:41:00,3
+RES000665,TKT002958,Resolved,Provided the required information to the customer.,2025-04-19 04:56:00,4
+RES000666,TKT002961,Resolved,Customer request completed successfully.,2026-04-22 19:09:00,4
+RES000667,TKT002962,Resolved,Issue investigated and solution provided.,2025-02-17 06:51:00,5
+RES000668,TKT002965,Rejected,Technical issue fixed by the support team.,2026-04-24 23:49:00,3
+RES000669,TKT002970,Resolved,Technical issue fixed by the support team.,2025-06-29 00:00:00,3
+RES000670,TKT002974,Resolved,Customer issue resolved successfully.,2026-06-01 10:37:00,3
+RES000671,TKT002985,Resolved,Customer request completed successfully.,2026-06-17 12:03:00,5
+RES000672,TKT002995,Resolved,Provided the required information to the customer.,2025-05-03 06:50:00,5
+RES000673,TKT002998,Resolved,Customer issue resolved successfully.,2025-03-30 14:37:00,4
+RES000674,TKT002999,Resolved,Customer issue resolved successfully.,2025-05-15 06:26:00,4
+RES000675,TKT003001,Resolved,Issue investigated and solution provided.,2025-08-09 01:36:00,3
+RES000676,TKT003004,Resolved,Technical issue fixed by the support team.,2025-02-02 12:59:00,3
+RES000677,TKT003013,Resolved,Issue investigated and solution provided.,2026-05-02 07:36:00,4
+RES000678,TKT003024,Resolved,Customer issue resolved successfully.,2026-08-26 16:00:00,5
+RES000679,TKT003031,Resolved,Customer request completed successfully.,2025-01-08 18:21:00,5
+RES000680,TKT003032,Resolved,Issue investigated and solution provided.,2025-09-22 01:29:00,4
+RES000681,TKT003044,Resolved,Customer request completed successfully.,2026-02-15 10:00:00,3
+RES000682,TKT003045,Resolved,Technical issue fixed by the support team.,2025-12-02 04:14:00,3
+RES000683,TKT003046,Resolved,Customer issue resolved successfully.,2026-02-10 06:30:00,4
+RES000684,TKT003050,Resolved,Issue investigated and solution provided.,2025-12-14 21:11:00,4
+RES000685,TKT003058,Resolved,Issue investigated and solution provided.,2025-11-04 21:17:00,5
+RES000686,TKT003064,Resolved,Customer request completed successfully.,2025-06-28 21:35:00,4
+RES000687,TKT003065,Resolved,Technical issue fixed by the support team.,2026-05-04 09:43:00,3
+RES000688,TKT003069,Resolved,Customer issue resolved successfully.,2026-02-13 11:27:00,3
+RES000689,TKT003075,Resolved,Technical issue fixed by the support team.,2026-10-29 12:56:00,3
+RES000690,TKT003080,Resolved,Issue investigated and solution provided.,2026-07-31 02:52:00,4
+RES000691,TKT003082,Resolved,Technical issue fixed by the support team.,2025-09-04 19:25:00,4
+RES000692,TKT003084,Resolved,Technical issue fixed by the support team.,2025-08-23 00:03:00,4
+RES000693,TKT003086,Resolved,Customer issue resolved successfully.,2026-04-13 15:32:00,5
+RES000694,TKT003092,Resolved,Technical issue fixed by the support team.,2025-10-05 00:43:00,3
+RES000695,TKT003094,Resolved,Customer request completed successfully.,2025-12-30 01:35:00,5
+RES000696,TKT003095,Resolved,Provided the required information to the customer.,2026-06-20 04:09:00,4
+RES000697,TKT003096,Resolved,Customer request completed successfully.,2026-02-04 09:56:00,4
+RES000698,TKT003100,Resolved,Technical issue fixed by the support team.,2026-04-23 03:04:00,3
+RES000699,TKT003112,Resolved,Customer request completed successfully.,2026-04-07 19:18:00,5
+RES000700,TKT003114,Resolved,Technical issue fixed by the support team.,2025-01-15 06:59:00,4
+RES000701,TKT003115,Resolved,Customer request completed successfully.,2025-06-23 15:15:00,3
+RES000702,TKT003121,Resolved,Issue investigated and solution provided.,2025-09-16 09:14:00,3
+RES000703,TKT003128,Resolved,Customer request completed successfully.,2025-10-27 06:27:00,3
+RES000704,TKT003129,Resolved,Technical issue fixed by the support team.,2026-05-11 10:45:00,3
+RES000705,TKT003131,Resolved,Provided the required information to the customer.,2026-04-12 10:28:00,5
+RES000706,TKT003135,Resolved,Customer issue resolved successfully.,2025-04-01 09:08:00,4
+RES000707,TKT003151,Resolved,Technical issue fixed by the support team.,2025-08-11 18:16:00,3
+RES000708,TKT003157,Resolved,Provided the required information to the customer.,2026-03-01 02:44:00,3
+RES000709,TKT003158,Resolved,Issue investigated and solution provided.,2025-03-27 08:06:00,5
+RES000710,TKT003160,Resolved,Issue investigated and solution provided.,2026-09-07 19:54:00,4
+RES000711,TKT003165,Resolved,Issue investigated and solution provided.,2025-09-27 22:12:00,3
+RES000712,TKT003167,Resolved,Provided the required information to the customer.,2025-10-11 11:45:00,4
+RES000713,TKT003170,Resolved,Provided the required information to the customer.,2025-08-03 23:18:00,4
+RES000714,TKT003172,Resolved,Technical issue fixed by the support team.,2025-08-23 10:54:00,4
+RES000715,TKT003179,Resolved,Provided the required information to the customer.,2026-05-16 05:58:00,3
+RES000716,TKT003186,Resolved,Issue investigated and solution provided.,2025-07-29 12:59:00,5
+RES000717,TKT003188,Resolved,Issue investigated and solution provided.,2026-06-16 23:55:00,3
+RES000718,TKT003191,Resolved,Provided the required information to the customer.,2026-05-08 00:30:00,4
+RES000719,TKT003193,Resolved,Customer request completed successfully.,2026-03-07 13:06:00,3
+RES000720,TKT003194,Resolved,Provided the required information to the customer.,2026-09-10 15:08:00,3
+RES000721,TKT003195,Resolved,Customer request completed successfully.,2025-01-03 00:47:00,3
+RES000722,TKT003203,Resolved,Customer issue resolved successfully.,2025-05-14 00:46:00,5
+RES000723,TKT003205,Resolved,Technical issue fixed by the support team.,2026-08-26 17:01:00,5
+RES000724,TKT003206,Resolved,Provided the required information to the customer.,2026-02-09 09:31:00,3
+RES000725,TKT003209,Resolved,Issue investigated and solution provided.,2025-09-23 18:23:00,4
+RES000726,TKT003215,Resolved,Issue investigated and solution provided.,2025-10-18 15:28:00,3
+RES000727,TKT003216,Rejected,Customer issue resolved successfully.,2026-03-09 12:10:00,5
+RES000728,TKT003217,Resolved,Issue investigated and solution provided.,2025-05-03 15:48:00,4
+RES000729,TKT003221,Resolved,Customer request completed successfully.,2026-03-18 00:50:00,5
+RES000730,TKT003225,Resolved,Customer request completed successfully.,2025-05-01 20:53:00,5
+RES000731,TKT003227,Resolved,Issue investigated and solution provided.,2025-08-17 01:45:00,4
+RES000732,TKT003229,Resolved,Customer request completed successfully.,2025-10-13 05:04:00,5
+RES000733,TKT003232,Rejected,Provided the required information to the customer.,2026-02-10 12:08:00,4
+RES000734,TKT003240,Resolved,Technical issue fixed by the support team.,2025-06-18 15:00:00,3
+RES000735,TKT003249,Resolved,Technical issue fixed by the support team.,2025-07-16 11:58:00,5
+RES000736,TKT003253,Resolved,Technical issue fixed by the support team.,2025-05-25 08:51:00,3
+RES000737,TKT003254,Resolved,Customer request completed successfully.,2026-09-07 18:32:00,3
+RES000738,TKT003260,Resolved,Provided the required information to the customer.,2025-04-23 17:55:00,3
+RES000739,TKT003261,Resolved,Provided the required information to the customer.,2026-01-09 14:57:00,3
+RES000740,TKT003270,Resolved,Technical issue fixed by the support team.,2025-06-30 12:56:00,5
+RES000741,TKT003275,Resolved,Technical issue fixed by the support team.,2025-08-06 00:09:00,4
+RES000742,TKT003284,Rejected,Customer request completed successfully.,2026-08-06 12:14:00,5
+RES000743,TKT003286,Resolved,Customer request completed successfully.,2025-02-04 17:19:00,4
+RES000744,TKT003288,Resolved,Issue investigated and solution provided.,2026-03-16 19:11:00,5
+RES000745,TKT003293,Resolved,Customer request completed successfully.,2025-11-23 00:28:00,5
+RES000746,TKT003301,Resolved,Customer request completed successfully.,2026-03-03 12:04:00,5
+RES000747,TKT003302,Resolved,Customer issue resolved successfully.,2026-07-02 18:58:00,4
+RES000748,TKT003304,Resolved,Provided the required information to the customer.,2025-05-30 23:22:00,3
+RES000749,TKT003313,Resolved,Provided the required information to the customer.,2025-05-19 01:46:00,3
+RES000750,TKT003314,Resolved,Technical issue fixed by the support team.,2026-07-10 05:57:00,4
+RES000751,TKT003323,Resolved,Provided the required information to the customer.,2026-02-13 10:11:00,3
+RES000752,TKT003327,Resolved,Technical issue fixed by the support team.,2025-02-21 10:34:00,3
+RES000753,TKT003333,Resolved,Provided the required information to the customer.,2026-04-09 02:45:00,3
+RES000754,TKT003338,Rejected,Issue investigated and solution provided.,2026-04-16 00:12:00,3
+RES000755,TKT003356,Resolved,Provided the required information to the customer.,2025-07-29 04:38:00,4
+RES000756,TKT003357,Resolved,Customer request completed successfully.,2025-09-26 08:00:00,3
+RES000757,TKT003360,Resolved,Technical issue fixed by the support team.,2025-04-04 06:31:00,4
+RES000758,TKT003364,Resolved,Issue investigated and solution provided.,2026-04-25 13:51:00,5
+RES000759,TKT003383,Resolved,Provided the required information to the customer.,2026-03-21 18:39:00,5
+RES000760,TKT003390,Resolved,Provided the required information to the customer.,2025-05-15 13:03:00,4
+RES000761,TKT003399,Resolved,Provided the required information to the customer.,2025-05-26 07:03:00,3
+RES000762,TKT003404,Resolved,Technical issue fixed by the support team.,2025-10-29 04:43:00,4
+RES000763,TKT003405,Resolved,Customer request completed successfully.,2026-01-23 13:51:00,5
+RES000764,TKT003412,Resolved,Customer request completed successfully.,2025-01-12 02:34:00,3
+RES000765,TKT003420,Resolved,Provided the required information to the customer.,2025-06-25 11:15:00,5
+RES000766,TKT003431,Resolved,Provided the required information to the customer.,2026-02-26 09:48:00,3
+RES000767,TKT003433,Resolved,Customer issue resolved successfully.,2025-12-19 11:23:00,5
+RES000768,TKT003434,Resolved,Customer issue resolved successfully.,2025-03-16 03:32:00,4
+RES000769,TKT003444,Resolved,Customer request completed successfully.,2026-02-18 16:09:00,4
+RES000770,TKT003447,Resolved,Customer request completed successfully.,2025-03-06 06:25:00,3
+RES000771,TKT003451,Resolved,Customer issue resolved successfully.,2025-12-05 13:37:00,4
+RES000772,TKT003453,Resolved,Issue investigated and solution provided.,2026-09-25 11:34:00,3
+RES000773,TKT003455,Resolved,Technical issue fixed by the support team.,2025-11-22 22:40:00,3
+RES000774,TKT003464,Resolved,Issue investigated and solution provided.,2026-01-20 00:12:00,3
+RES000775,TKT003470,Resolved,Provided the required information to the customer.,2026-01-19 08:13:00,5
+RES000776,TKT003472,Resolved,Technical issue fixed by the support team.,2025-12-06 19:35:00,4
+RES000777,TKT003473,Resolved,Issue investigated and solution provided.,2025-09-27 05:21:00,5
+RES000778,TKT003478,Resolved,Customer issue resolved successfully.,2025-07-21 18:19:00,4
+RES000779,TKT003483,Resolved,Issue investigated and solution provided.,2025-10-05 08:08:00,4
+RES000780,TKT003485,Resolved,Issue investigated and solution provided.,2025-11-09 14:59:00,5
+RES000781,TKT003492,Resolved,Provided the required information to the customer.,2026-08-26 02:41:00,3
+RES000782,TKT003493,Resolved,Provided the required information to the customer.,2026-10-27 22:52:00,4
+RES000783,TKT003494,Rejected,Customer request completed successfully.,2025-02-12 02:53:00,4
+RES000784,TKT003495,Resolved,Technical issue fixed by the support team.,2025-02-14 15:27:00,3
+RES000785,TKT003506,Resolved,Issue investigated and solution provided.,2025-09-14 18:45:00,4
+RES000786,TKT003511,Resolved,Customer issue resolved successfully.,2026-04-17 13:25:00,3
+RES000787,TKT003513,Resolved,Customer request completed successfully.,2025-02-11 04:25:00,4
+RES000788,TKT003514,Resolved,Provided the required information to the customer.,2025-03-09 08:52:00,4
+RES000789,TKT003516,Resolved,Customer request completed successfully.,2026-08-25 10:01:00,3
+RES000790,TKT003519,Resolved,Customer request completed successfully.,2025-04-09 16:38:00,3
+RES000791,TKT003526,Rejected,Technical issue fixed by the support team.,2026-07-14 05:49:00,5
+RES000792,TKT003527,Resolved,Technical issue fixed by the support team.,2025-09-15 02:50:00,5
+RES000793,TKT003530,Resolved,Technical issue fixed by the support team.,2025-05-31 20:19:00,4
+RES000794,TKT003531,Resolved,Issue investigated and solution provided.,2026-01-17 00:00:00,5
+RES000795,TKT003540,Resolved,Provided the required information to the customer.,2026-06-08 21:57:00,4
+RES000796,TKT003549,Resolved,Customer request completed successfully.,2026-07-14 21:51:00,5
+RES000797,TKT003555,Resolved,Provided the required information to the customer.,2025-09-10 10:39:00,5
+RES000798,TKT003556,Resolved,Customer request completed successfully.,2026-04-01 14:06:00,3
+RES000799,TKT003558,Resolved,Issue investigated and solution provided.,2026-10-02 22:57:00,5
+RES000800,TKT003562,Resolved,Technical issue fixed by the support team.,2025-07-13 05:34:00,3
+RES000801,TKT003564,Resolved,Technical issue fixed by the support team.,2026-04-25 13:53:00,3
+RES000802,TKT003567,Resolved,Customer request completed successfully.,2025-04-15 08:22:00,3
+RES000803,TKT003568,Resolved,Provided the required information to the customer.,2026-10-29 07:40:00,3
+RES000804,TKT003569,Resolved,Customer issue resolved successfully.,2026-01-25 07:14:00,4
+RES000805,TKT003573,Resolved,Provided the required information to the customer.,2026-06-09 13:56:00,4
+RES000806,TKT003574,Resolved,Provided the required information to the customer.,2026-02-13 08:37:00,4
+RES000807,TKT003575,Resolved,Technical issue fixed by the support team.,2025-01-29 09:49:00,3
+RES000808,TKT003578,Resolved,Customer issue resolved successfully.,2026-01-15 09:55:00,4
+RES000809,TKT003581,Resolved,Issue investigated and solution provided.,2026-03-16 13:46:00,5
+RES000810,TKT003582,Resolved,Issue investigated and solution provided.,2026-01-16 21:07:00,5
+RES000811,TKT003583,Resolved,Customer issue resolved successfully.,2026-07-06 16:39:00,5
+RES000812,TKT003594,Resolved,Customer issue resolved successfully.,2026-08-31 16:21:00,4
+RES000813,TKT003595,Resolved,Provided the required information to the customer.,2025-05-13 09:25:00,4
+RES000814,TKT003596,Resolved,Technical issue fixed by the support team.,2026-07-21 19:31:00,3
+RES000815,TKT003599,Rejected,Provided the required information to the customer.,2025-04-10 23:37:00,4
+RES000816,TKT003602,Resolved,Customer request completed successfully.,2026-05-17 18:26:00,5
+RES000817,TKT003606,Resolved,Provided the required information to the customer.,2026-10-10 10:07:00,3
+RES000818,TKT003608,Resolved,Customer request completed successfully.,2025-07-17 14:20:00,5
+RES000819,TKT003615,Resolved,Technical issue fixed by the support team.,2025-10-03 14:14:00,5
+RES000820,TKT003621,Resolved,Provided the required information to the customer.,2026-01-11 17:48:00,4
+RES000821,TKT003624,Rejected,Customer request completed successfully.,2026-01-21 00:46:00,5
+RES000822,TKT003636,Resolved,Issue investigated and solution provided.,2025-05-15 03:12:00,4
+RES000823,TKT003640,Resolved,Technical issue fixed by the support team.,2025-03-18 14:46:00,4
+RES000824,TKT003642,Resolved,Customer request completed successfully.,2025-08-04 02:20:00,4
+RES000825,TKT003650,Resolved,Customer issue resolved successfully.,2025-04-03 10:01:00,4
+RES000826,TKT003652,Resolved,Customer issue resolved successfully.,2026-10-22 07:38:00,3
+RES000827,TKT003657,Resolved,Technical issue fixed by the support team.,2025-10-29 07:44:00,4
+RES000828,TKT003666,Resolved,Issue investigated and solution provided.,2025-11-03 17:25:00,5
+RES000829,TKT003670,Resolved,Provided the required information to the customer.,2026-09-27 13:32:00,3
+RES000830,TKT003675,Resolved,Customer issue resolved successfully.,2025-10-13 21:23:00,5
+RES000831,TKT003684,Resolved,Provided the required information to the customer.,2026-04-01 23:45:00,4
+RES000832,TKT003685,Resolved,Provided the required information to the customer.,2025-05-27 04:09:00,4
+RES000833,TKT003692,Resolved,Provided the required information to the customer.,2026-01-18 21:29:00,3
+RES000834,TKT003702,Resolved,Issue investigated and solution provided.,2025-06-05 03:04:00,4
+RES000835,TKT003703,Resolved,Technical issue fixed by the support team.,2025-06-03 06:40:00,4
+RES000836,TKT003704,Resolved,Customer request completed successfully.,2026-04-25 04:42:00,3
+RES000837,TKT003706,Rejected,Technical issue fixed by the support team.,2026-05-25 08:03:00,4
+RES000838,TKT003707,Resolved,Customer issue resolved successfully.,2026-01-15 20:10:00,5
+RES000839,TKT003711,Rejected,Technical issue fixed by the support team.,2025-02-25 17:29:00,3
+RES000840,TKT003713,Resolved,Customer request completed successfully.,2025-10-24 04:07:00,3
+RES000841,TKT003718,Resolved,Provided the required information to the customer.,2026-09-21 13:33:00,5
+RES000842,TKT003722,Resolved,Issue investigated and solution provided.,2025-11-19 09:59:00,5
+RES000843,TKT003725,Resolved,Provided the required information to the customer.,2025-08-29 11:36:00,4
+RES000844,TKT003727,Resolved,Provided the required information to the customer.,2026-04-29 21:45:00,4
+RES000845,TKT003733,Resolved,Issue investigated and solution provided.,2026-04-05 06:42:00,3
+RES000846,TKT003738,Resolved,Customer request completed successfully.,2026-05-01 09:31:00,5
+RES000847,TKT003741,Resolved,Customer issue resolved successfully.,2025-02-02 12:03:00,4
+RES000848,TKT003744,Resolved,Provided the required information to the customer.,2025-03-16 23:57:00,5
+RES000849,TKT003746,Resolved,Issue investigated and solution provided.,2025-10-24 14:41:00,5
+RES000850,TKT003751,Resolved,Customer request completed successfully.,2026-09-08 23:32:00,5
+RES000851,TKT003762,Resolved,Provided the required information to the customer.,2026-08-04 16:20:00,5
+RES000852,TKT003772,Resolved,Customer request completed successfully.,2026-09-02 14:10:00,4
+RES000853,TKT003776,Resolved,Customer request completed successfully.,2025-01-19 13:25:00,3
+RES000854,TKT003780,Rejected,Customer request completed successfully.,2025-06-12 17:26:00,3
+RES000855,TKT003781,Resolved,Customer issue resolved successfully.,2026-10-29 01:58:00,3
+RES000856,TKT003782,Resolved,Customer issue resolved successfully.,2026-05-18 08:35:00,5
+RES000857,TKT003783,Resolved,Customer request completed successfully.,2025-07-09 22:20:00,3
+RES000858,TKT003798,Resolved,Technical issue fixed by the support team.,2025-07-11 22:58:00,5
+RES000859,TKT003800,Resolved,Provided the required information to the customer.,2025-03-26 16:56:00,5
+RES000860,TKT003820,Resolved,Technical issue fixed by the support team.,2026-03-06 13:24:00,3
+RES000861,TKT003828,Resolved,Customer issue resolved successfully.,2025-08-09 01:06:00,4
+RES000862,TKT003831,Resolved,Issue investigated and solution provided.,2026-07-15 04:49:00,4
+RES000863,TKT003834,Resolved,Customer issue resolved successfully.,2026-06-15 19:02:00,4
+RES000864,TKT003835,Resolved,Issue investigated and solution provided.,2025-06-01 03:18:00,3
+RES000865,TKT003849,Resolved,Technical issue fixed by the support team.,2026-10-08 05:25:00,5
+RES000866,TKT003854,Resolved,Provided the required information to the customer.,2025-06-11 04:16:00,3
+RES000867,TKT003859,Resolved,Provided the required information to the customer.,2025-10-30 00:31:00,5
+RES000868,TKT003861,Resolved,Customer request completed successfully.,2025-09-11 16:00:00,4
+RES000869,TKT003866,Resolved,Technical issue fixed by the support team.,2025-12-18 03:58:00,5
+RES000870,TKT003870,Resolved,Provided the required information to the customer.,2025-12-01 19:19:00,5
+RES000871,TKT003873,Resolved,Customer request completed successfully.,2026-07-01 16:12:00,5
+RES000872,TKT003875,Resolved,Provided the required information to the customer.,2026-10-10 18:21:00,3
+RES000873,TKT003877,Resolved,Technical issue fixed by the support team.,2025-02-28 16:34:00,4
+RES000874,TKT003880,Resolved,Technical issue fixed by the support team.,2025-10-23 09:08:00,3
+RES000875,TKT003885,Resolved,Provided the required information to the customer.,2026-07-21 16:37:00,5
+RES000876,TKT003896,Resolved,Customer issue resolved successfully.,2025-05-16 12:44:00,4
+RES000877,TKT003898,Resolved,Provided the required information to the customer.,2026-08-31 10:09:00,3
+RES000878,TKT003902,Resolved,Issue investigated and solution provided.,2025-10-21 18:54:00,5
+RES000879,TKT003910,Resolved,Technical issue fixed by the support team.,2026-08-18 16:23:00,5
+RES000880,TKT003915,Resolved,Issue investigated and solution provided.,2025-01-25 13:21:00,3
+RES000881,TKT003917,Resolved,Provided the required information to the customer.,2025-09-30 15:21:00,5
+RES000882,TKT003927,Resolved,Customer request completed successfully.,2025-07-22 21:52:00,4
+RES000883,TKT003928,Resolved,Provided the required information to the customer.,2025-02-13 09:58:00,3
+RES000884,TKT003931,Resolved,Customer issue resolved successfully.,2025-05-31 16:00:00,3
+RES000885,TKT003938,Resolved,Customer issue resolved successfully.,2026-04-28 21:31:00,5
+RES000886,TKT003943,Resolved,Customer issue resolved successfully.,2026-10-02 05:20:00,4
+RES000887,TKT003944,Rejected,Customer issue resolved successfully.,2025-08-26 02:25:00,3
+RES000888,TKT003945,Resolved,Technical issue fixed by the support team.,2026-03-25 18:09:00,5
+RES000889,TKT003947,Resolved,Customer request completed successfully.,2026-03-30 10:33:00,3
+RES000890,TKT003960,Resolved,Customer issue resolved successfully.,2025-08-02 06:32:00,4
+RES000891,TKT003968,Resolved,Customer request completed successfully.,2025-11-06 19:10:00,3
+RES000892,TKT003970,Resolved,Technical issue fixed by the support team.,2025-02-13 07:47:00,3
+RES000893,TKT003978,Rejected,Customer issue resolved successfully.,2026-07-15 06:17:00,3
+RES000894,TKT003985,Resolved,Customer request completed successfully.,2025-11-22 06:10:00,3
+RES000895,TKT003996,Resolved,Provided the required information to the customer.,2025-02-01 18:24:00,3
+RES000896,TKT003999,Resolved,Issue investigated and solution provided.,2026-03-11 20:11:00,5
+RES000897,TKT004007,Resolved,Issue investigated and solution provided.,2025-11-23 17:33:00,4
+RES000898,TKT004011,Resolved,Technical issue fixed by the support team.,2025-03-05 04:32:00,4
+RES000899,TKT004023,Resolved,Customer issue resolved successfully.,2026-06-17 06:19:00,4
+RES000900,TKT004024,Resolved,Technical issue fixed by the support team.,2025-11-29 20:37:00,3
+RES000901,TKT004032,Resolved,Provided the required information to the customer.,2025-06-24 18:59:00,5
+RES000902,TKT004041,Resolved,Technical issue fixed by the support team.,2025-06-04 23:36:00,4
+RES000903,TKT004047,Resolved,Customer request completed successfully.,2025-05-26 23:07:00,3
+RES000904,TKT004054,Resolved,Customer request completed successfully.,2026-04-24 09:55:00,3
+RES000905,TKT004064,Resolved,Technical issue fixed by the support team.,2025-02-13 00:46:00,3
+RES000906,TKT004070,Resolved,Customer issue resolved successfully.,2026-04-22 08:05:00,5
+RES000907,TKT004071,Resolved,Issue investigated and solution provided.,2026-02-07 09:57:00,4
+RES000908,TKT004076,Resolved,Customer issue resolved successfully.,2026-08-30 18:31:00,4
+RES000909,TKT004078,Resolved,Customer request completed successfully.,2026-10-13 20:09:00,4
+RES000910,TKT004091,Resolved,Customer request completed successfully.,2025-10-07 03:24:00,4
+RES000911,TKT004093,Resolved,Issue investigated and solution provided.,2026-10-16 22:38:00,4
+RES000912,TKT004095,Resolved,Issue investigated and solution provided.,2026-01-10 19:26:00,4
+RES000913,TKT004099,Resolved,Technical issue fixed by the support team.,2025-05-16 05:09:00,4
+RES000914,TKT004106,Resolved,Customer issue resolved successfully.,2025-12-16 23:47:00,3
+RES000915,TKT004107,Resolved,Customer request completed successfully.,2026-01-13 08:02:00,4
+RES000916,TKT004118,Resolved,Customer request completed successfully.,2025-08-20 17:05:00,3
+RES000917,TKT004119,Resolved,Issue investigated and solution provided.,2025-07-27 19:53:00,4
+RES000918,TKT004120,Resolved,Customer request completed successfully.,2026-08-21 22:28:00,4
+RES000919,TKT004133,Resolved,Provided the required information to the customer.,2025-02-07 07:39:00,4
+RES000920,TKT004136,Resolved,Issue investigated and solution provided.,2025-02-04 21:58:00,4
+RES000921,TKT004137,Resolved,Provided the required information to the customer.,2025-09-17 05:31:00,5
+RES000922,TKT004143,Resolved,Customer issue resolved successfully.,2026-04-21 17:25:00,5
+RES000923,TKT004146,Resolved,Technical issue fixed by the support team.,2025-12-25 01:44:00,5
+RES000924,TKT004156,Rejected,Provided the required information to the customer.,2026-02-25 04:32:00,5
+RES000925,TKT004157,Resolved,Issue investigated and solution provided.,2026-01-13 19:13:00,4
+RES000926,TKT004158,Resolved,Technical issue fixed by the support team.,2026-05-16 07:52:00,5
+RES000927,TKT004166,Resolved,Technical issue fixed by the support team.,2026-03-09 08:08:00,3
+RES000928,TKT004172,Resolved,Technical issue fixed by the support team.,2025-06-11 07:15:00,4
+RES000929,TKT004173,Resolved,Issue investigated and solution provided.,2025-07-08 05:29:00,3
+RES000930,TKT004174,Resolved,Issue investigated and solution provided.,2025-09-05 17:35:00,4
+RES000931,TKT004193,Rejected,Issue investigated and solution provided.,2025-03-05 19:55:00,5
+RES000932,TKT004197,Resolved,Customer issue resolved successfully.,2025-04-10 10:01:00,4
+RES000933,TKT004198,Resolved,Issue investigated and solution provided.,2026-08-30 13:21:00,3
+RES000934,TKT004199,Resolved,Technical issue fixed by the support team.,2026-01-21 12:40:00,5
+RES000935,TKT004201,Resolved,Technical issue fixed by the support team.,2025-05-01 03:46:00,4
+RES000936,TKT004205,Resolved,Customer issue resolved successfully.,2025-06-07 21:47:00,4
+RES000937,TKT004207,Resolved,Issue investigated and solution provided.,2026-05-24 14:07:00,5
+RES000938,TKT004211,Resolved,Customer issue resolved successfully.,2025-03-23 08:33:00,4
+RES000939,TKT004214,Resolved,Customer request completed successfully.,2025-05-11 02:20:00,5
+RES000940,TKT004220,Resolved,Customer issue resolved successfully.,2026-09-02 04:04:00,3
+RES000941,TKT004222,Resolved,Issue investigated and solution provided.,2025-09-06 14:24:00,3
+RES000942,TKT004223,Resolved,Customer issue resolved successfully.,2026-08-05 18:48:00,4
+RES000943,TKT004229,Resolved,Issue investigated and solution provided.,2025-10-23 11:48:00,5
+RES000944,TKT004234,Resolved,Technical issue fixed by the support team.,2025-07-09 06:54:00,4
+RES000945,TKT004239,Rejected,Customer issue resolved successfully.,2025-07-31 12:02:00,5
+RES000946,TKT004249,Resolved,Technical issue fixed by the support team.,2025-06-30 13:04:00,4
+RES000947,TKT004250,Resolved,Provided the required information to the customer.,2026-04-13 04:13:00,4
+RES000948,TKT004256,Resolved,Technical issue fixed by the support team.,2025-09-28 04:34:00,5
+RES000949,TKT004264,Resolved,Provided the required information to the customer.,2026-07-01 00:54:00,5
+RES000950,TKT004266,Rejected,Customer issue resolved successfully.,2025-02-23 18:19:00,3
+RES000951,TKT004267,Resolved,Provided the required information to the customer.,2025-02-11 06:37:00,4
+RES000952,TKT004269,Resolved,Provided the required information to the customer.,2026-04-19 14:21:00,4
+RES000953,TKT004271,Resolved,Issue investigated and solution provided.,2025-02-04 21:31:00,4
+RES000954,TKT004281,Resolved,Provided the required information to the customer.,2025-05-12 04:41:00,5
+RES000955,TKT004294,Resolved,Issue investigated and solution provided.,2026-05-15 04:05:00,5
+RES000956,TKT004295,Resolved,Technical issue fixed by the support team.,2026-08-26 07:30:00,4
+RES000957,TKT004297,Resolved,Customer request completed successfully.,2026-05-28 13:59:00,5
+RES000958,TKT004305,Resolved,Customer issue resolved successfully.,2025-06-22 04:52:00,3
+RES000959,TKT004313,Resolved,Technical issue fixed by the support team.,2025-01-11 00:10:00,3
+RES000960,TKT004320,Resolved,Customer request completed successfully.,2025-12-30 11:12:00,3
+RES000961,TKT004323,Resolved,Customer issue resolved successfully.,2025-05-05 10:26:00,3
+RES000962,TKT004328,Resolved,Technical issue fixed by the support team.,2025-12-17 14:10:00,4
+RES000963,TKT004340,Resolved,Provided the required information to the customer.,2026-07-15 13:56:00,3
+RES000964,TKT004341,Resolved,Technical issue fixed by the support team.,2025-06-21 05:17:00,3
+RES000965,TKT004349,Resolved,Customer request completed successfully.,2026-08-19 22:32:00,5
+RES000966,TKT004352,Resolved,Technical issue fixed by the support team.,2026-07-08 03:24:00,4
+RES000967,TKT004354,Resolved,Customer issue resolved successfully.,2026-04-17 10:16:00,5
+RES000968,TKT004356,Resolved,Provided the required information to the customer.,2025-01-24 10:04:00,3
+RES000969,TKT004360,Resolved,Customer request completed successfully.,2026-08-29 16:11:00,5
+RES000970,TKT004361,Resolved,Customer issue resolved successfully.,2025-07-28 06:34:00,3
+RES000971,TKT004371,Resolved,Provided the required information to the customer.,2026-09-11 21:30:00,3
+RES000972,TKT004373,Resolved,Customer issue resolved successfully.,2026-06-06 08:19:00,3
+RES000973,TKT004379,Rejected,Technical issue fixed by the support team.,2025-06-25 09:28:00,3
+RES000974,TKT004383,Rejected,Provided the required information to the customer.,2026-02-20 01:03:00,4
+RES000975,TKT004385,Resolved,Issue investigated and solution provided.,2026-01-23 13:43:00,4
+RES000976,TKT004387,Resolved,Technical issue fixed by the support team.,2026-08-27 22:17:00,5
+RES000977,TKT004391,Resolved,Issue investigated and solution provided.,2025-08-25 15:13:00,3
+RES000978,TKT004396,Resolved,Technical issue fixed by the support team.,2026-05-11 03:29:00,5
+RES000979,TKT004402,Resolved,Issue investigated and solution provided.,2026-09-23 17:49:00,5
+RES000980,TKT004407,Resolved,Customer request completed successfully.,2026-08-10 10:50:00,4
+RES000981,TKT004414,Resolved,Customer request completed successfully.,2025-10-04 14:52:00,5
+RES000982,TKT004422,Resolved,Provided the required information to the customer.,2026-03-02 12:11:00,5
+RES000983,TKT004425,Resolved,Customer request completed successfully.,2025-10-13 12:59:00,5
+RES000984,TKT004435,Resolved,Customer request completed successfully.,2025-02-07 20:51:00,4
+RES000985,TKT004438,Resolved,Issue investigated and solution provided.,2025-08-12 03:17:00,3
+RES000986,TKT004439,Resolved,Issue investigated and solution provided.,2026-06-29 00:14:00,3
+RES000987,TKT004449,Resolved,Customer issue resolved successfully.,2026-04-01 05:10:00,4
+RES000988,TKT004450,Rejected,Customer issue resolved successfully.,2025-03-07 12:10:00,3
+RES000989,TKT004454,Resolved,Issue investigated and solution provided.,2025-10-15 14:08:00,5
+RES000990,TKT004457,Resolved,Technical issue fixed by the support team.,2025-02-21 10:52:00,3
+RES000991,TKT004458,Resolved,Issue investigated and solution provided.,2026-02-28 05:49:00,4
+RES000992,TKT004459,Resolved,Customer request completed successfully.,2026-04-06 03:04:00,3
+RES000993,TKT004461,Resolved,Customer issue resolved successfully.,2026-05-11 10:54:00,3
+RES000994,TKT004479,Resolved,Customer issue resolved successfully.,2025-12-08 07:59:00,3
+RES000995,TKT004489,Resolved,Issue investigated and solution provided.,2026-03-18 00:22:00,5
+RES000996,TKT004492,Resolved,Customer issue resolved successfully.,2025-01-21 20:55:00,5
+RES000997,TKT004493,Resolved,Technical issue fixed by the support team.,2025-01-17 11:34:00,4
+RES000998,TKT004499,Resolved,Customer issue resolved successfully.,2026-02-14 11:49:00,5
+RES000999,TKT004505,Resolved,Technical issue fixed by the support team.,2026-08-02 13:20:00,5
+RES001000,TKT004507,Resolved,Issue investigated and solution provided.,2026-07-02 16:06:00,5
+RES001001,TKT004509,Resolved,Issue investigated and solution provided.,2026-07-04 03:10:00,3
+RES001002,TKT004517,Resolved,Issue investigated and solution provided.,2025-07-08 19:51:00,5
+RES001003,TKT004519,Resolved,Issue investigated and solution provided.,2025-07-11 10:36:00,3
+RES001004,TKT004520,Resolved,Issue investigated and solution provided.,2026-09-24 18:28:00,3
+RES001005,TKT004531,Resolved,Customer request completed successfully.,2026-05-11 04:37:00,4
+RES001006,TKT004539,Resolved,Customer request completed successfully.,2025-08-14 21:40:00,4
+RES001007,TKT004545,Resolved,Issue investigated and solution provided.,2025-10-04 06:01:00,5
+RES001008,TKT004548,Resolved,Customer issue resolved successfully.,2026-01-20 17:45:00,3
+RES001009,TKT004549,Resolved,Technical issue fixed by the support team.,2026-02-13 22:36:00,3
+RES001010,TKT004550,Resolved,Technical issue fixed by the support team.,2025-03-05 21:53:00,5
+RES001011,TKT004553,Resolved,Provided the required information to the customer.,2025-12-20 19:41:00,3
+RES001012,TKT004557,Resolved,Provided the required information to the customer.,2025-01-11 01:38:00,4
+RES001013,TKT004560,Resolved,Technical issue fixed by the support team.,2026-05-26 15:59:00,3
+RES001014,TKT004565,Resolved,Customer issue resolved successfully.,2025-01-02 04:25:00,4
+RES001015,TKT004569,Resolved,Customer request completed successfully.,2025-07-04 02:12:00,3
+RES001016,TKT004572,Resolved,Issue investigated and solution provided.,2025-11-22 22:25:00,4
+RES001017,TKT004573,Resolved,Customer request completed successfully.,2025-02-21 04:43:00,5
+RES001018,TKT004574,Resolved,Technical issue fixed by the support team.,2025-02-19 22:25:00,5
+RES001019,TKT004579,Resolved,Provided the required information to the customer.,2026-02-02 00:03:00,5
+RES001020,TKT004582,Resolved,Customer issue resolved successfully.,2025-05-09 18:11:00,4
+RES001021,TKT004584,Resolved,Customer request completed successfully.,2026-05-12 17:38:00,3
+RES001022,TKT004602,Resolved,Technical issue fixed by the support team.,2025-06-19 18:33:00,3
+RES001023,TKT004615,Resolved,Provided the required information to the customer.,2025-08-21 15:21:00,5
+RES001024,TKT004621,Resolved,Provided the required information to the customer.,2025-01-20 08:10:00,5
+RES001025,TKT004636,Resolved,Customer request completed successfully.,2025-04-30 12:14:00,5
+RES001026,TKT004643,Resolved,Customer request completed successfully.,2025-04-12 21:29:00,5
+RES001027,TKT004644,Resolved,Customer issue resolved successfully.,2025-09-21 09:58:00,5
+RES001028,TKT004648,Resolved,Provided the required information to the customer.,2026-08-05 00:47:00,3
+RES001029,TKT004651,Resolved,Provided the required information to the customer.,2025-08-31 17:28:00,5
+RES001030,TKT004653,Resolved,Issue investigated and solution provided.,2026-04-23 05:15:00,4
+RES001031,TKT004657,Resolved,Technical issue fixed by the support team.,2025-06-19 08:55:00,3
+RES001032,TKT004659,Resolved,Customer issue resolved successfully.,2025-07-06 18:43:00,4
+RES001033,TKT004662,Resolved,Issue investigated and solution provided.,2025-02-21 09:47:00,4
+RES001034,TKT004671,Resolved,Technical issue fixed by the support team.,2025-10-05 15:16:00,5
+RES001035,TKT004674,Resolved,Technical issue fixed by the support team.,2026-04-23 11:12:00,3
+RES001036,TKT004680,Resolved,Issue investigated and solution provided.,2025-03-15 04:11:00,5
+RES001037,TKT004681,Rejected,Provided the required information to the customer.,2025-01-28 19:27:00,4
+RES001038,TKT004687,Resolved,Customer request completed successfully.,2025-02-09 17:21:00,3
+RES001039,TKT004690,Resolved,Issue investigated and solution provided.,2025-02-27 20:47:00,4
+RES001040,TKT004692,Resolved,Issue investigated and solution provided.,2025-01-08 23:07:00,4
+RES001041,TKT004693,Resolved,Customer request completed successfully.,2026-08-22 14:16:00,5
+RES001042,TKT004695,Resolved,Customer issue resolved successfully.,2025-07-11 14:07:00,5
+RES001043,TKT004697,Resolved,Provided the required information to the customer.,2026-03-25 09:30:00,5
+RES001044,TKT004699,Resolved,Customer issue resolved successfully.,2025-10-02 09:28:00,4
+RES001045,TKT004700,Resolved,Issue investigated and solution provided.,2026-03-31 18:36:00,3
+RES001046,TKT004711,Resolved,Customer request completed successfully.,2026-02-06 19:15:00,5
+RES001047,TKT004714,Resolved,Customer issue resolved successfully.,2025-11-12 17:55:00,4
+RES001048,TKT004717,Resolved,Technical issue fixed by the support team.,2026-06-11 22:14:00,5
+RES001049,TKT004718,Resolved,Technical issue fixed by the support team.,2026-07-06 16:42:00,4
+RES001050,TKT004719,Resolved,Customer issue resolved successfully.,2025-08-26 06:00:00,4
+RES001051,TKT004720,Resolved,Customer issue resolved successfully.,2026-04-06 02:38:00,4
+RES001052,TKT004722,Resolved,Technical issue fixed by the support team.,2026-02-20 15:06:00,4
+RES001053,TKT004725,Resolved,Issue investigated and solution provided.,2025-01-29 19:57:00,4
+RES001054,TKT004730,Resolved,Customer request completed successfully.,2026-04-27 17:25:00,5
+RES001055,TKT004733,Resolved,Customer issue resolved successfully.,2025-06-13 00:39:00,3
+RES001056,TKT004739,Resolved,Technical issue fixed by the support team.,2025-06-06 11:38:00,3
+RES001057,TKT004741,Resolved,Technical issue fixed by the support team.,2025-08-13 22:09:00,3
+RES001058,TKT004742,Resolved,Issue investigated and solution provided.,2026-05-22 21:22:00,5
+RES001059,TKT004747,Resolved,Customer issue resolved successfully.,2025-01-22 10:46:00,5
+RES001060,TKT004748,Resolved,Customer request completed successfully.,2026-06-22 13:15:00,5
+RES001061,TKT004750,Resolved,Customer issue resolved successfully.,2026-04-19 18:32:00,4
+RES001062,TKT004751,Resolved,Provided the required information to the customer.,2025-06-09 17:54:00,3
+RES001063,TKT004752,Resolved,Issue investigated and solution provided.,2026-04-03 07:20:00,5
+RES001064,TKT004763,Resolved,Customer issue resolved successfully.,2025-09-13 18:50:00,5
+RES001065,TKT004770,Resolved,Issue investigated and solution provided.,2025-03-15 03:48:00,5
+RES001066,TKT004777,Resolved,Technical issue fixed by the support team.,2026-06-29 14:23:00,5
+RES001067,TKT004778,Resolved,Provided the required information to the customer.,2026-07-12 01:13:00,4
+RES001068,TKT004784,Resolved,Technical issue fixed by the support team.,2025-08-28 00:13:00,4
+RES001069,TKT004789,Resolved,Provided the required information to the customer.,2026-06-26 13:57:00,3
+RES001070,TKT004792,Resolved,Provided the required information to the customer.,2025-08-29 05:15:00,3
+RES001071,TKT004795,Rejected,Provided the required information to the customer.,2026-04-20 08:11:00,4
+RES001072,TKT004797,Resolved,Issue investigated and solution provided.,2026-08-25 18:54:00,3
+RES001073,TKT004801,Rejected,Issue investigated and solution provided.,2026-04-08 21:19:00,4
+RES001074,TKT004803,Resolved,Issue investigated and solution provided.,2025-07-08 15:05:00,4
+RES001075,TKT004815,Resolved,Issue investigated and solution provided.,2025-07-23 11:04:00,5
+RES001076,TKT004818,Resolved,Customer request completed successfully.,2025-03-05 13:06:00,4
+RES001077,TKT004824,Resolved,Customer request completed successfully.,2025-04-21 04:57:00,3
+RES001078,TKT004825,Resolved,Customer request completed successfully.,2026-04-28 08:30:00,5
+RES001079,TKT004827,Resolved,Provided the required information to the customer.,2026-09-12 02:35:00,3
+RES001080,TKT004832,Resolved,Customer issue resolved successfully.,2025-09-19 21:20:00,4
+RES001081,TKT004834,Resolved,Issue investigated and solution provided.,2026-09-18 15:16:00,5
+RES001082,TKT004841,Resolved,Technical issue fixed by the support team.,2026-10-18 08:37:00,3
+RES001083,TKT004842,Resolved,Provided the required information to the customer.,2026-07-21 01:24:00,4
+RES001084,TKT004844,Resolved,Issue investigated and solution provided.,2026-03-18 16:47:00,5
+RES001085,TKT004848,Resolved,Customer issue resolved successfully.,2025-09-14 01:44:00,4
+RES001086,TKT004857,Rejected,Customer request completed successfully.,2025-10-23 13:47:00,4
+RES001087,TKT004868,Rejected,Customer request completed successfully.,2025-05-18 17:51:00,5
+RES001088,TKT004874,Resolved,Customer request completed successfully.,2025-08-18 19:44:00,3
+RES001089,TKT004875,Resolved,Customer request completed successfully.,2025-05-05 00:25:00,3
+RES001090,TKT004877,Resolved,Customer issue resolved successfully.,2026-03-28 02:15:00,4
+RES001091,TKT004890,Resolved,Issue investigated and solution provided.,2026-03-24 15:34:00,3
+RES001092,TKT004892,Resolved,Technical issue fixed by the support team.,2025-04-03 21:12:00,4
+RES001093,TKT004901,Resolved,Technical issue fixed by the support team.,2026-04-13 05:11:00,4
+RES001094,TKT004902,Resolved,Customer issue resolved successfully.,2025-05-06 19:37:00,4
+RES001095,TKT004918,Resolved,Customer request completed successfully.,2026-05-12 18:37:00,4
+RES001096,TKT004919,Resolved,Provided the required information to the customer.,2026-03-22 10:57:00,5
+RES001097,TKT004924,Resolved,Issue investigated and solution provided.,2026-08-02 14:17:00,3
+RES001098,TKT004927,Resolved,Provided the required information to the customer.,2026-07-19 22:24:00,4
+RES001099,TKT004929,Resolved,Provided the required information to the customer.,2025-10-16 03:16:00,5
+RES001100,TKT004932,Resolved,Technical issue fixed by the support team.,2025-10-20 23:35:00,5
+RES001101,TKT004933,Resolved,Customer request completed successfully.,2026-09-20 03:21:00,3
+RES001102,TKT004940,Resolved,Customer request completed successfully.,2025-05-17 23:26:00,5
+RES001103,TKT004942,Resolved,Customer request completed successfully.,2025-04-19 21:49:00,4
+RES001104,TKT004943,Resolved,Technical issue fixed by the support team.,2026-07-24 14:54:00,5
+RES001105,TKT004946,Resolved,Customer request completed successfully.,2025-08-15 06:39:00,5
+RES001106,TKT004947,Resolved,Technical issue fixed by the support team.,2025-04-26 15:30:00,4
+RES001107,TKT004964,Resolved,Customer request completed successfully.,2025-11-22 12:39:00,3
+RES001108,TKT004965,Resolved,Provided the required information to the customer.,2025-10-13 17:23:00,4
+RES001109,TKT004966,Resolved,Issue investigated and solution provided.,2025-01-09 06:23:00,4
+RES001110,TKT004967,Resolved,Issue investigated and solution provided.,2025-03-09 01:29:00,5
+RES001111,TKT004972,Resolved,Technical issue fixed by the support team.,2025-08-18 15:52:00,3
+RES001112,TKT004975,Resolved,Technical issue fixed by the support team.,2026-07-28 06:39:00,5
+RES001113,TKT004977,Resolved,Technical issue fixed by the support team.,2026-04-05 03:45:00,3
+RES001114,TKT004981,Resolved,Customer issue resolved successfully.,2025-08-03 13:16:00,4
+RES001115,TKT004982,Resolved,Technical issue fixed by the support team.,2025-10-25 09:36:00,3
+RES001116,TKT004991,Resolved,Customer request completed successfully.,2025-01-08 06:31:00,5

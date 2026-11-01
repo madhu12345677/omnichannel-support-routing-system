@@ -1,0 +1,26 @@
+[
+    {
+        "channel_id": "CH001",
+        "channel_name": "Email",
+        "calendar_type": "BUSINESS_HOURS",
+        "business_start": "09:00",
+        "business_end": "18:00",
+        "timezone": "Asia/Kolkata"
+    },
+    {
+        "channel_id": "CH002",
+        "channel_name": "Chat",
+        "calendar_type": "BUSINESS_HOURS",
+        "business_start": "09:00",
+        "business_end": "18:00",
+        "timezone": "Asia/Kolkata"
+    },
+    {
+        "channel_id": "CH003",
+        "channel_name": "Phone",
+        "calendar_type": "BUSINESS_HOURS",
+        "business_start": "09:00",
+        "business_end": "18:00",
+        "timezone": "Asia/Kolkata"
+    }
+]

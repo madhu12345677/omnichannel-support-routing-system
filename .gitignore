@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+.streamlit/secrets.toml
+*.db
+*.sqlite
+*.sqlite3
+.history/
+*.log
+*.bak
+
+!database/support_system.db
+src/ticket_router backup.py

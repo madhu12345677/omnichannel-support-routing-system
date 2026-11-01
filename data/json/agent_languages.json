@@ -1,0 +1,702 @@
+[
+    {
+        "agent_id": "A001",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A002",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A003",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A004",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A005",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A006",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A007",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A008",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A009",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A010",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A011",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A012",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A013",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A014",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A015",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A016",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A017",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A018",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A019",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A020",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A021",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A022",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A023",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A024",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A025",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A026",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A027",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A028",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A029",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A030",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A031",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A032",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A033",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A034",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A035",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A036",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A037",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A038",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A039",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A040",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A041",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A042",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A043",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A044",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A045",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A046",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A047",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A048",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A049",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A050",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A051",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A052",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A053",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A054",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A055",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A056",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A057",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A058",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A059",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A060",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A061",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A062",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A063",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A064",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A065",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A066",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A067",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A068",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A069",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A070",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A071",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A072",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A073",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A074",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A075",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A076",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A077",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A078",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A079",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A080",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A081",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A082",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A083",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A084",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A085",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A086",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A087",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A088",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A089",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A090",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A091",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A092",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A093",
+        "language_id": "L003",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A094",
+        "language_id": "L001",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A095",
+        "language_id": "L002",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A096",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A097",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A098",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A099",
+        "language_id": "L005",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "agent_id": "A100",
+        "language_id": "L004",
+        "proficiency": "Fluent",
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    }
+]

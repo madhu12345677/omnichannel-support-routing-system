@@ -1,0 +1,9 @@
+﻿intent_id,intent_name,description,default_priority,active
+I001,Order Status,Support for Order Status,High,1
+I002,Refund,Support for Refund,Medium,1
+I003,Payment Issue,Support for Payment Issue,High,1
+I004,Account Access,Support for Account Access,Critical,1
+I005,Product Information,Support for Product Information,Low,1
+I006,Technical Support,Support for Technical Support,High,1
+I007,Cancellation,Support for Cancellation,Medium,1
+I008,Complaint,Support for Complaint,High,1

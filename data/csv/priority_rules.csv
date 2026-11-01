@@ -1,0 +1,9 @@
+﻿rule_id,intent_id,channel_id,priority,first_response_minutes,resolution_minutes,effective_from,effective_to
+PR001,I001,,High,15,240,2026-10-30 23:03:07,
+PR002,I002,,Medium,60,480,2026-10-30 23:03:07,
+PR003,I003,,High,15,240,2026-10-30 23:03:07,
+PR004,I004,,Critical,5,60,2026-10-30 23:03:07,
+PR005,I005,,Low,240,1440,2026-10-30 23:03:07,
+PR006,I006,,High,15,240,2026-10-30 23:03:07,
+PR007,I007,,Medium,60,480,2026-10-30 23:03:07,
+PR008,I008,,High,15,240,2026-10-30 23:03:07,

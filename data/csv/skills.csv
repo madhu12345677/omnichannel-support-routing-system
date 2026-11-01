@@ -1,0 +1,11 @@
+﻿skill_id,skill_name,description
+SK001,Billing,Billing support skill
+SK002,Technical,Technical support skill
+SK003,Refund,Refund support skill
+SK004,Sales,Sales support skill
+SK005,Account Support,Account Support support skill
+SK006,Order Management,Order Management support skill
+SK007,Delivery,Delivery support skill
+SK008,Product Support,Product Support support skill
+SK009,Complaints,Complaints support skill
+SK010,General Support,General Support support skill

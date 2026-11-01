@@ -1,0 +1,4 @@
+﻿channel_id,channel_name,calendar_type,business_start,business_end,timezone
+CH001,Email,BUSINESS_HOURS,09:00,18:00,Asia/Kolkata
+CH002,Chat,BUSINESS_HOURS,09:00,18:00,Asia/Kolkata
+CH003,Phone,BUSINESS_HOURS,09:00,18:00,Asia/Kolkata

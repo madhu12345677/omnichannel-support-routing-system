@@ -1,0 +1,82 @@
+[
+    {
+        "rule_id": "PR001",
+        "intent_id": "I001",
+        "channel_id": null,
+        "priority": "High",
+        "first_response_minutes": 15,
+        "resolution_minutes": 240,
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "rule_id": "PR002",
+        "intent_id": "I002",
+        "channel_id": null,
+        "priority": "Medium",
+        "first_response_minutes": 60,
+        "resolution_minutes": 480,
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "rule_id": "PR003",
+        "intent_id": "I003",
+        "channel_id": null,
+        "priority": "High",
+        "first_response_minutes": 15,
+        "resolution_minutes": 240,
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "rule_id": "PR004",
+        "intent_id": "I004",
+        "channel_id": null,
+        "priority": "Critical",
+        "first_response_minutes": 5,
+        "resolution_minutes": 60,
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "rule_id": "PR005",
+        "intent_id": "I005",
+        "channel_id": null,
+        "priority": "Low",
+        "first_response_minutes": 240,
+        "resolution_minutes": 1440,
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "rule_id": "PR006",
+        "intent_id": "I006",
+        "channel_id": null,
+        "priority": "High",
+        "first_response_minutes": 15,
+        "resolution_minutes": 240,
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "rule_id": "PR007",
+        "intent_id": "I007",
+        "channel_id": null,
+        "priority": "Medium",
+        "first_response_minutes": 60,
+        "resolution_minutes": 480,
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    },
+    {
+        "rule_id": "PR008",
+        "intent_id": "I008",
+        "channel_id": null,
+        "priority": "High",
+        "first_response_minutes": 15,
+        "resolution_minutes": 240,
+        "effective_from": "2026-10-30 23:03:07",
+        "effective_to": null
+    }
+]

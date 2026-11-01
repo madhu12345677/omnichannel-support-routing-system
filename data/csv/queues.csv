@@ -1,0 +1,7 @@
+﻿queue_id,queue_name,description,active
+Q001,Billing Queue,Billing Queue handling queue,1
+Q002,Technical Queue,Technical Queue handling queue,1
+Q003,Refund Queue,Refund Queue handling queue,1
+Q004,Sales Queue,Sales Queue handling queue,1
+Q005,Account Queue,Account Queue handling queue,1
+Q006,General Queue,General Queue handling queue,1

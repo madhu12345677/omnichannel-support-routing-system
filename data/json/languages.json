@@ -1,0 +1,27 @@
+[
+    {
+        "language_id": "L001",
+        "language_name": "English",
+        "language_code": "lang001"
+    },
+    {
+        "language_id": "L002",
+        "language_name": "Telugu",
+        "language_code": "lang002"
+    },
+    {
+        "language_id": "L003",
+        "language_name": "Hindi",
+        "language_code": "lang003"
+    },
+    {
+        "language_id": "L004",
+        "language_name": "Tamil",
+        "language_code": "lang004"
+    },
+    {
+        "language_id": "L005",
+        "language_name": "Kannada",
+        "language_code": "lang005"
+    }
+]

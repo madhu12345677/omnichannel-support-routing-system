@@ -1,0 +1,52 @@
+[
+    {
+        "skill_id": "SK001",
+        "skill_name": "Billing",
+        "description": "Billing support skill"
+    },
+    {
+        "skill_id": "SK002",
+        "skill_name": "Technical",
+        "description": "Technical support skill"
+    },
+    {
+        "skill_id": "SK003",
+        "skill_name": "Refund",
+        "description": "Refund support skill"
+    },
+    {
+        "skill_id": "SK004",
+        "skill_name": "Sales",
+        "description": "Sales support skill"
+    },
+    {
+        "skill_id": "SK005",
+        "skill_name": "Account Support",
+        "description": "Account Support support skill"
+    },
+    {
+        "skill_id": "SK006",
+        "skill_name": "Order Management",
+        "description": "Order Management support skill"
+    },
+    {
+        "skill_id": "SK007",
+        "skill_name": "Delivery",
+        "description": "Delivery support skill"
+    },
+    {
+        "skill_id": "SK008",
+        "skill_name": "Product Support",
+        "description": "Product Support support skill"
+    },
+    {
+        "skill_id": "SK009",
+        "skill_name": "Complaints",
+        "description": "Complaints support skill"
+    },
+    {
+        "skill_id": "SK010",
+        "skill_name": "General Support",
+        "description": "General Support support skill"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "queue_id": "Q001",
+        "queue_name": "Billing Queue",
+        "description": "Billing Queue handling queue",
+        "active": 1
+    },
+    {
+        "queue_id": "Q002",
+        "queue_name": "Technical Queue",
+        "description": "Technical Queue handling queue",
+        "active": 1
+    },
+    {
+        "queue_id": "Q003",
+        "queue_name": "Refund Queue",
+        "description": "Refund Queue handling queue",
+        "active": 1
+    },
+    {
+        "queue_id": "Q004",
+        "queue_name": "Sales Queue",
+        "description": "Sales Queue handling queue",
+        "active": 1
+    },
+    {
+        "queue_id": "Q005",
+        "queue_name": "Account Queue",
+        "description": "Account Queue handling queue",
+        "active": 1
+    },
+    {
+        "queue_id": "Q006",
+        "queue_name": "General Queue",
+        "description": "General Queue handling queue",
+        "active": 1
+    }
+]

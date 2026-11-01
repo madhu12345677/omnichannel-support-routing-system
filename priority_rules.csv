@@ -1,0 +1,5 @@
+priority_id,priority_name,level
+1,Critical,1
+2,High,2
+3,Medium,3
+4,Low,4

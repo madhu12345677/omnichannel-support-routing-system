@@ -1,0 +1,5 @@
+sla_id,priority,response_time,resolution_time
+1,Critical,5,60
+2,High,15,240
+3,Medium,60,480
+4,Low,240,1440

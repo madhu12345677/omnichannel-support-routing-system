@@ -1,0 +1,713 @@
+[
+    {
+        "simulation_assignment_id": 1,
+        "ticket_id": "TKT001023",
+        "agent_id": "A088",
+        "priority": "Critical",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 2,
+        "ticket_id": "TKT001679",
+        "agent_id": "A088",
+        "priority": "Critical",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 3,
+        "ticket_id": "TKT001731",
+        "agent_id": "A088",
+        "priority": "Critical",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 4,
+        "ticket_id": "TKT002724",
+        "agent_id": "A088",
+        "priority": "Critical",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 5,
+        "ticket_id": "TKT002783",
+        "agent_id": "A088",
+        "priority": "Critical",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 6,
+        "ticket_id": "TKT003113",
+        "agent_id": "A081",
+        "priority": "Critical",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 7,
+        "ticket_id": "TKT004592",
+        "agent_id": "A081",
+        "priority": "Critical",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 8,
+        "ticket_id": "TKT004617",
+        "agent_id": "A081",
+        "priority": "Critical",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 9,
+        "ticket_id": "TKT004860",
+        "agent_id": "A081",
+        "priority": "Critical",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 10,
+        "ticket_id": "TKT004937",
+        "agent_id": "A081",
+        "priority": "Critical",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 11,
+        "ticket_id": "TKT001608",
+        "agent_id": "A066",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 12,
+        "ticket_id": "TKT001647",
+        "agent_id": "A066",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 13,
+        "ticket_id": "TKT002024",
+        "agent_id": "A095",
+        "priority": "High",
+        "status": "Completed",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 14,
+        "ticket_id": "TKT002088",
+        "agent_id": "A095",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 15,
+        "ticket_id": "TKT002221",
+        "agent_id": "A095",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 16,
+        "ticket_id": "TKT002266",
+        "agent_id": "A053",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 17,
+        "ticket_id": "TKT002278",
+        "agent_id": "A085",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 18,
+        "ticket_id": "TKT002534",
+        "agent_id": "A006",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 19,
+        "ticket_id": "TKT002561",
+        "agent_id": "A095",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 20,
+        "ticket_id": "TKT002576",
+        "agent_id": "A095",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 21,
+        "ticket_id": "TKT002621",
+        "agent_id": "A085",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 22,
+        "ticket_id": "TKT002667",
+        "agent_id": "A066",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 23,
+        "ticket_id": "TKT002670",
+        "agent_id": "A006",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 24,
+        "ticket_id": "TKT002764",
+        "agent_id": "A066",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 25,
+        "ticket_id": "TKT002804",
+        "agent_id": "A053",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 26,
+        "ticket_id": "TKT003000",
+        "agent_id": "A066",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 27,
+        "ticket_id": "TKT003375",
+        "agent_id": "A085",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 28,
+        "ticket_id": "TKT003403",
+        "agent_id": "A006",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 29,
+        "ticket_id": "TKT003537",
+        "agent_id": "A085",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 30,
+        "ticket_id": "TKT003922",
+        "agent_id": "A053",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 31,
+        "ticket_id": "TKT004245",
+        "agent_id": "A053",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 32,
+        "ticket_id": "TKT004275",
+        "agent_id": "A091",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 33,
+        "ticket_id": "TKT004292",
+        "agent_id": "A083",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 34,
+        "ticket_id": "TKT004332",
+        "agent_id": "A053",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 35,
+        "ticket_id": "TKT004401",
+        "agent_id": "A085",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 36,
+        "ticket_id": "TKT004418",
+        "agent_id": "A049",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 37,
+        "ticket_id": "TKT004467",
+        "agent_id": "A019",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 38,
+        "ticket_id": "TKT004468",
+        "agent_id": "A006",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 39,
+        "ticket_id": "TKT004502",
+        "agent_id": "A080",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 40,
+        "ticket_id": "TKT004566",
+        "agent_id": "A049",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 41,
+        "ticket_id": "TKT004647",
+        "agent_id": "A080",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 42,
+        "ticket_id": "TKT004654",
+        "agent_id": "A083",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 43,
+        "ticket_id": "TKT004856",
+        "agent_id": "A091",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 44,
+        "ticket_id": "TKT004894",
+        "agent_id": "A091",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 45,
+        "ticket_id": "TKT001576",
+        "agent_id": "A070",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 46,
+        "ticket_id": "TKT001603",
+        "agent_id": "A012",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 47,
+        "ticket_id": "TKT002111",
+        "agent_id": "A012",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 48,
+        "ticket_id": "TKT002366",
+        "agent_id": "A070",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 49,
+        "ticket_id": "TKT002652",
+        "agent_id": "A070",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 50,
+        "ticket_id": "TKT002657",
+        "agent_id": "A012",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 51,
+        "ticket_id": "TKT002897",
+        "agent_id": "A067",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 52,
+        "ticket_id": "TKT002922",
+        "agent_id": "A067",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 53,
+        "ticket_id": "TKT003071",
+        "agent_id": "A070",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 54,
+        "ticket_id": "TKT003163",
+        "agent_id": "A035",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 55,
+        "ticket_id": "TKT003278",
+        "agent_id": "A012",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 56,
+        "ticket_id": "TKT003319",
+        "agent_id": "A070",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 57,
+        "ticket_id": "TKT003638",
+        "agent_id": "A012",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 58,
+        "ticket_id": "TKT003790",
+        "agent_id": "A067",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 59,
+        "ticket_id": "TKT003954",
+        "agent_id": "A035",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 60,
+        "ticket_id": "TKT003958",
+        "agent_id": "A067",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 61,
+        "ticket_id": "TKT004021",
+        "agent_id": "A035",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 62,
+        "ticket_id": "TKT004044",
+        "agent_id": "A024",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 63,
+        "ticket_id": "TKT004101",
+        "agent_id": "A035",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 64,
+        "ticket_id": "TKT004187",
+        "agent_id": "A024",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 65,
+        "ticket_id": "TKT004369",
+        "agent_id": "A024",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 66,
+        "ticket_id": "TKT004521",
+        "agent_id": "A067",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 67,
+        "ticket_id": "TKT004957",
+        "agent_id": "A035",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 68,
+        "ticket_id": "TKT004988",
+        "agent_id": "A015",
+        "priority": "Medium",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 69,
+        "ticket_id": "TKT001702",
+        "agent_id": "A086",
+        "priority": "Low",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 70,
+        "ticket_id": "TKT002462",
+        "agent_id": "A086",
+        "priority": "Low",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 71,
+        "ticket_id": "TKT002653",
+        "agent_id": "A086",
+        "priority": "Low",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 72,
+        "ticket_id": "TKT002928",
+        "agent_id": "A086",
+        "priority": "Low",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 73,
+        "ticket_id": "TKT002940",
+        "agent_id": "A086",
+        "priority": "Low",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 74,
+        "ticket_id": "TKT003457",
+        "agent_id": "A038",
+        "priority": "Low",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 75,
+        "ticket_id": "TKT003534",
+        "agent_id": "A038",
+        "priority": "Low",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 76,
+        "ticket_id": "TKT003843",
+        "agent_id": "A038",
+        "priority": "Low",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 77,
+        "ticket_id": "TKT004278",
+        "agent_id": "A038",
+        "priority": "Low",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 78,
+        "ticket_id": "TKT004310",
+        "agent_id": "A038",
+        "priority": "Low",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:21:54",
+        "routing_reason": "Skill, language and capacity matched"
+    },
+    {
+        "simulation_assignment_id": 79,
+        "ticket_id": "TKT002825",
+        "agent_id": "A095",
+        "priority": "High",
+        "status": "Active",
+        "assigned_at": "2026-10-31 07:26:04",
+        "routing_reason": "Automatic retry: skill, language and capacity matched"
+    }
+]
