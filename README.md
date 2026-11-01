@@ -1,3 +1,4 @@
+
 # AI-Powered Customer Support Ticket Routing & SLA Management System
 
 ## Project Overview
@@ -131,4 +132,54 @@ These are results from the current generated dataset and simulation, not live pr
 git clone https://github.com/madhu12345677/omnichannel-support-routing-system.git
 ```
 
-### 2. Open the
+### 2. Open the project folder
+
+```bash
+cd omnichannel-support-routing-system
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the Streamlit application
+
+```bash
+python -m streamlit run app.py
+```
+
+## Validation
+
+The project includes scripts for checking:
+
+- Database tables and relationships
+- Primary and foreign keys
+- Ticket and assignment schemas
+- Agent capacity
+- Overflow queue
+- SLA events
+- Database consistency
+
+Run the database validation script:
+
+```bash
+python validate_database.py
+```
+
+## Future Enhancements
+
+- AI/LLM-based ticket intent classification
+- Advanced priority prediction
+- Real-time email, chat, and phone integrations
+- Dynamic agent workload balancing
+- Improved SLA breach prediction
+- Agent performance analytics
+- Automated ticket resolution suggestions
+
+## Author
+
+**Madhu Chandana Singareddy**
+
+GitHub: https://github.com/madhu12345677
